@@ -14,7 +14,7 @@ const Whychooseus: React.FC = () => {
                             {/* <!-- section-title-wrap Start --> */}
                             <div className="section-title-wrap text-center section-space--mb_30">
                                 <h3 className="heading mb-20">Preparing for your success, <br/> we provide <span className="text-color-primary">truly prominent IT solutions.</span> </h3>
-                                <p className="title-dec-text">The IT services that Mitech are running can be segmented by the type of skills employed to deliver the service (design, build, run). Technically, these fall into three main categories: business process services, application services, and infrastructure services.</p>
+                                <p className="title-dec-text">In a sea of technology providers, finding the right partner for your business can be daunting.  Join us as we unveil the reasons why choosing us is a decision that unlocks unparalleled success.</p>
                             </div>
                             {/* <!-- section-title-wrap Start --> */}
                         </div>
@@ -24,7 +24,7 @@ const Whychooseus: React.FC = () => {
                         <div className="row">
                             <div className="col-lg-4 offset-lg-1">
                                 <div className="modern-number-01  mt-30">
-                                    <h2 className="heading  me-5"><span className="mark-text">38</span>Years’ Experience in IT</h2>
+                                    <h2 className="heading  me-5"><span className="mark-text">10</span>Years’ Experience in IT</h2>
                                     <h3 className="heading mt-30">Learn More About Our <span className="text-color-primary"> Success <br/>Stories </span> </h3>
                                 </div>
                             </div>
@@ -33,7 +33,7 @@ const Whychooseus: React.FC = () => {
                                 <div className="progress-bar--one mt-30 section-space--mb_60">
                                     {/* <!-- Start Single Progress Charts --> */}
                                     <div className="progress-charts">
-                                        <h6 className="heading ">UI/UX</h6>
+                                        <h6 className="heading ">UI/UX Design</h6>
                                         <div className="progress">
                                             <div className="progress-bar wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".3s" role="progressbar"  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span className="percent-label">81%</span></div>
                                         </div>
@@ -42,7 +42,7 @@ const Whychooseus: React.FC = () => {
 
                                     {/* <!-- Start Single Progress Charts --> */}
                                     <div className="progress-charts">
-                                        <h6 className="heading ">Ideas</h6>
+                                        <h6 className="heading ">Web Development</h6>
                                         <div className="progress">
                                             <div className="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar"  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span className="percent-label">72%</span></div>
                                         </div>
@@ -51,7 +51,7 @@ const Whychooseus: React.FC = () => {
 
                                     {/* <!-- Start Single Progress Charts --> */}
                                     <div className="progress-charts ">
-                                        <h6 className="heading ">Marketing</h6>
+                                        <h6 className="heading ">Mobile App Development</h6>
                                         <div className="progress">
                                             <div className="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".8s" role="progressbar"  aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"><span className="percent-label">89%</span></div>
                                         </div>
@@ -60,7 +60,7 @@ const Whychooseus: React.FC = () => {
 
                                     {/* <!-- Start Single Progress Charts --> */}
                                     <div className="progress-charts ">
-                                        <h6 className="heading ">Consulting</h6>
+                                        <h6 className="heading ">Cloud Computing</h6>
                                         <div className="progress">
                                             <div className="progress-bar wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay=".9s" role="progressbar"  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"><span className="percent-label">57%</span></div>
                                         </div>
@@ -97,14 +97,14 @@ const Whychooseus: React.FC = () => {
                                                             </div>
                                                         </div>
                                                         <div className="heading-wrap">
-                                                            <h5 className="heading">Mitech Management Systems</h5>
+                                                            <h5 className="heading">JJR Software Management Systems</h5>
                                                         </div>
 
                                                     </div>
                                                 </div>
 
                                                 <div className="box-large-image__content mt-30 text-center">
-                                                    <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                    <p>We're excited to share how <strong>Our cutting-edge Management System</strong> can revolutionize your business operations.</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -132,7 +132,7 @@ const Whychooseus: React.FC = () => {
                                                 </div>
 
                                                 <div className="box-large-image__content mt-30 text-center">
-                                                    <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                    <p>Join us at JJR Software as we explore the importance of <strong>data base security</strong> and how it enhances your business efficiency.</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -160,7 +160,7 @@ const Whychooseus: React.FC = () => {
                                                 </div>
 
                                                 <div className="box-large-image__content mt-40 text-center">
-                                                    <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                    <p>Join us at JJR Software as we delve into the essence of reliability and <strong>how it empowers businesses</strong> to thrive in the digital era..</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -202,7 +202,7 @@ const Whychooseus: React.FC = () => {
                                         <span className="fa fa-star"></span>
                                         <span className="fa fa-star"></span>
                                     </div>
-                                    <p className="sub-text">by 700+ customers for 3200+ clients</p>
+                                    
                                 </div>
 
                                 <div className="contact-list-item">
@@ -214,12 +214,12 @@ const Whychooseus: React.FC = () => {
                                                 </div>
                                                 <div className="main-content">
                                                     <h6 className="heading">Call for advice now!</h6>
-                                                    <div className="text">1900 68668</div>
+                                                    <div className="text">(+91) 72838 87707</div>
                                                 </div>
                                             </div>
                                         </div>
                                     </a>
-                                    <a href="mailto:hello@mitech.com" className="single-contact-list">
+                                    <a href="mailto:admin@jjrsoftware.com" className="single-contact-list">
                                         <div className="content-wrap">
                                             <div className="content">
                                                 <div className="icon">
@@ -227,7 +227,7 @@ const Whychooseus: React.FC = () => {
                                                 </div>
                                                 <div className="main-content">
                                                     <h6 className="heading">Say hello</h6>
-                                                    <div className="text">hello@mitech.com</div>
+                                                    <div className="text">admin@jjrsoftware.com</div>
                                                 </div>
                                             </div>
                                         </div>

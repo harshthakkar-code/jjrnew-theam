@@ -253,7 +253,7 @@ const SoftTech: React.FC = () => {
                         <div className="section-title small-mb__40 tablet-mb__40">
                             <h6 className="section-sub-title mb-20">Our company</h6>
                             <h3 className="heading">We’ve been thriving in <span className="text-color-primary">38 years</span></h3>
-                            <p className="text mt-20">Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</p>
+                            <p className="text mt-20">JJR Software specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</p>
 
                             <div className="sider-title-button-box mt-30">
                                 <a href="#" className="ht-btn ht-btn-md">Join us now</a>
@@ -293,7 +293,7 @@ const SoftTech: React.FC = () => {
                                     <div className="list-header">
                                         <div className="marker"> 03</div>
                                         <div className="title-wrap">
-                                            <h6 className="title"> What are the best of Mitech? </h6>
+                                            <h6 className="title"> What are the best of JJR Software? </h6>
                                         </div>
                                     </div>
                                 </a>
@@ -337,7 +337,7 @@ const SoftTech: React.FC = () => {
                                                     </div>
                                                 </div>
                                                 <div className="heading-wrap">
-                                                    <h5 className="heading">Mitech Management Systems</h5>
+                                                    <h5 className="heading">JJR Software Management Systems</h5>
                                                 </div>
 
                                             </div>
@@ -523,9 +523,9 @@ const SoftTech: React.FC = () => {
                                             <img className="img-fluid" src="assets/images/projects/case-study-01-480x298.webp" alt=""/>
                                         </div>
                                         <div className="content">
-                                            <h6 className="heading">Mitech-Smart Vision</h6>
+                                            <h6 className="heading">JJR Software-Smart Vision</h6>
                                             <div className="post-categories">Cyber Security</div>
-                                            <div className="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.
+                                            <div className="text">At JJR Software, we have a holistic and integrated approach towards core modernization to experience technological evolution.
                                             </div>
                                             <div className="box-projects-arrow">
                                                 <span className="button-text">View case study</span>
@@ -622,15 +622,15 @@ const SoftTech: React.FC = () => {
                 <div className="col-lg-12">
                     <div className="section-title-wrap text-center section-space--mb_60">
                         <h6 className="section-sub-title mb-20">Testimonials</h6>
-                        <h3 className="heading">Why do people praise about<span className="text-color-primary"> Mitech?</span></h3>
+                        <h3 className="heading">Why do people praise about<span className="text-color-primary"> JJR Software?</span></h3>
                     </div>
                     <div className="testimonial-slider">
                         <div className="swiper-container testimonial-slider__container-two">
                             <div className="swiper-wrapper testimonial-slider__wrapper">
                                 <div className="swiper-slide">
                                     <div className="testimonial-slider__single wow move-up">
-                                        <h6 className="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
-                                        <div className="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. Their popularity and reputation are just evident. </div>
+                                        <h6 className="testimonial-subject">The JJR Software team works really hard to ensure high level of quality</h6>
+                                        <div className="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @JJR Software. Their popularity and reputation are just evident. </div>
                                         <div className="author-info">
                                             <div className="testimonial-slider__media">
                                                 <img src="assets/images/testimonial/mitech-testimonial-avata-04-70x70.webp" className="img-fluid" alt=""/>
@@ -645,8 +645,8 @@ const SoftTech: React.FC = () => {
                                 </div>
                                 <div className="swiper-slide">
                                     <div className="testimonial-slider__single wow move-up">
-                                        <h6 className="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
-                                        <div className="testimonial-slider__text">I discovered @Mitech services by chance on the Internet to find a suitable IT services provider. This must be fate, not an accident at all.</div>
+                                        <h6 className="testimonial-subject">The JJR Software team works really hard to ensure high level of quality</h6>
+                                        <div className="testimonial-slider__text">I discovered @JJR Software services by chance on the Internet to find a suitable IT services provider. This must be fate, not an accident at all.</div>
                                         <div className="author-info">
                                             <div className="testimonial-slider__media">
                                                 <img src="assets/images/testimonial/mitech-testimonial-avata-02-70x70.webp" className="img-fluid" alt=""/>
@@ -661,7 +661,7 @@ const SoftTech: React.FC = () => {
                                 </div>
                                 <div className="swiper-slide">
                                     <div className="testimonial-slider__single wow move-up">
-                                        <h6 className="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
+                                        <h6 className="testimonial-subject">The JJR Software team works really hard to ensure high level of quality</h6>
                                         <div className="testimonial-slider__text">IT service is not an easy path to follow. But these guys can make it to the top with premium services and dedicated customer support.</div>
                                         <div className="author-info">
                                             <div className="testimonial-slider__media">
@@ -677,8 +677,8 @@ const SoftTech: React.FC = () => {
                                 </div>
                                 <div className="swiper-slide">
                                     <div className="testimonial-slider__single wow move-up">
-                                        <h6 className="testimonial-subject">The Mitech team works really hard to ensure high level of quality</h6>
-                                        <div className="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @Mitech. Their popularity and reputation are just evident. </div>
+                                        <h6 className="testimonial-subject">The JJR Software team works really hard to ensure high level of quality</h6>
+                                        <div className="testimonial-slider__text">There are thousands of IT service companies in the US. But there’s nothing like @JJR Software. Their popularity and reputation are just evident. </div>
                                         <div className="author-info">
                                             <div className="testimonial-slider__media">
                                                 <img src="assets/images/testimonial/mitech-testimonial-avata-03-70x70.webp" className="img-fluid" alt=""/>

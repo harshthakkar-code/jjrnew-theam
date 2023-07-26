@@ -24,15 +24,15 @@ const Manageitservice: React.FC = () => {
                         <div className="row">
                             <div className="col-lg-4">
                                 <div className="modern-number-01">
-                                    <h2 className="heading  me-5"><span className="mark-text">38</span>Years’ Experience in IT</h2>
+                                    <h2 className="heading  me-5"><span className="mark-text">10</span>Years’ Experience in IT</h2>
                                     <h3 className="heading mt-30">Learn More About Our <span className="text-color-primary"> Success <br/> Stories</span></h3>
                                 </div>
                             </div>
                             <div className="col-lg-7 me-auto">
                                 <div className="conact-us-wrap-one managed-it">
-                                    <h5 className="heading ">Mitech specializes in <span className="text-color-primary"> technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc. </h5>
+                                    <h5 className="heading ">JJR Software specializes in <span className="text-color-primary"> technological and IT-related services</span> such as Mobile App Development, Web Development, UI/UX Designer, B2B Business etc. </h5>
 
-                                    <div className="sub-heading">We’re available for 8 hours a day!<br/>Contact to require a detailed analysis and assessment of your plan.</div>
+                                    <div className="sub-heading">We’re available for 24/7.<br/>Contact to require a detailed analysis and assessment of your plan.</div>
                                 </div>
                             </div>
                         </div>
@@ -49,28 +49,28 @@ const Manageitservice: React.FC = () => {
                         <div className="grid-item  wow move-up">
                             <div className="fun-fact--one text-center">
                                 <h5 className="fun-fact__title">Successfully work <br/> with </h5>
-                                <div className="fun-fact__count counter">1056</div>
+                                <div className="fun-fact__count counter">50</div>
                                 <span className="fun-fact__text">HAPPY CLIENTS</span>
                             </div>
                         </div>
                         <div className="grid-item  wow move-up">
                             <div className="fun-fact--one text-center">
                                 <h5 className="fun-fact__title">Successfully <br/> completed</h5>
-                                <div className="fun-fact__count counter">491</div>
+                                <div className="fun-fact__count counter">20</div>
                                 <span className="fun-fact__text">Finished projects</span>
                             </div>
                         </div>
                         <div className="grid-item  wow move-up">
                             <div className="fun-fact--one text-center">
                                 <h5 className="fun-fact__title">Recruit more <br/> than</h5>
-                                <div className="fun-fact__count counter">245</div>
+                                <div className="fun-fact__count counter">30</div>
                                 <span className="fun-fact__text">SKilled Experts</span>
                             </div>
                         </div>
                         <div className="grid-item  wow move-up">
                             <div className="fun-fact--one text-center">
                                 <h5 className="fun-fact__title">Blog <br/> update </h5>
-                                <div className="fun-fact__count counter">1090</div>
+                                <div className="fun-fact__count counter">105</div>
                                 <span className="fun-fact__text">Media Posts</span>
                             </div>
                         </div>
@@ -129,11 +129,11 @@ const Manageitservice: React.FC = () => {
                                                             <i className="far fa-life-ring"></i>
                                                         </div>
                                                         <h5 className="heading">
-                                                            Mitech Management Systems
+                                                            JJR Software Management Systems
                                                         </h5>
                                                     </div>
                                                     <div className="content">
-                                                        <div className="text">Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management.</div>
+                                                        <div className="text">At JJR Software, we shine a light on the transformative impact of a robust Quality Assurance System.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -152,7 +152,7 @@ const Manageitservice: React.FC = () => {
                                                         </h5>
                                                     </div>
                                                     <div className="content">
-                                                        <div className="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
+                                                        <div className="text">Join us at JJR Software as we delve into the essence of reliability and how it empowers businesses to thrive in the digital era.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -171,7 +171,7 @@ const Manageitservice: React.FC = () => {
                                                         </h5>
                                                     </div>
                                                     <div className="content">
-                                                        <div className="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
+                                                        <div className="text">Join us at JJR Software as we shine a spotlight on the backbone of our success and the unwavering commitment of our exceptional team.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -190,7 +190,7 @@ const Manageitservice: React.FC = () => {
                                                         </h5>
                                                     </div>
                                                     <div className="content">
-                                                        <div className="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.</div>
+                                                        <div className="text">Join us at JJR Software on a journey of seamless collaboration and optimized operations as we explore the foundations and benefits of this cutting-edge approach.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -213,7 +213,7 @@ const Manageitservice: React.FC = () => {
                         <div className="col-lg-12">
                             <div className="section-title-wrap text-center section-space--mb_40">
                                 <h6 className="section-sub-title mb-20">Testimonials</h6>
-                                <h3 className="heading">What do people praise about <span className="text-color-primary"> Mitech?</span></h3>
+                                <h3 className="heading">What do people praise about <span className="text-color-primary"> JJR Software?</span></h3>
                             </div>
                             <div className="testimonial-slider">
                                 <div className="swiper-container testimonial-slider__container">
@@ -236,12 +236,12 @@ const Manageitservice: React.FC = () => {
                                                         </div>
                                                         <div className="author-info">
                                                             <h6 className="name">Abbie Ferguson</h6>
-                                                            <span className="designation">Marketing</span>
+                                                            <span className="designation">Businessman</span>
                                                         </div>
                                                     </div>
                                                 </div>
 
-                                                <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                                <div className="testimonial-slider__text">Always listened to my thoughts and came up with creative design solutions The team is also flexible enough to adjust to the schedule.</div>
 
                                             </div>
                                         </div>
@@ -268,7 +268,7 @@ const Manageitservice: React.FC = () => {
                                                     </div>
                                                 </div>
 
-                                                <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                                <div className="testimonial-slider__text">It's rewarding to work with a diligent and dedicated team. Excellent guys to work with!</div>
 
                                             </div>
                                         </div>
@@ -295,7 +295,7 @@ const Manageitservice: React.FC = () => {
                                                     </div>
                                                 </div>
 
-                                                <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                                <div className="testimonial-slider__text">Great place to work with. work efficiency is excellent with skilled and knoweledgeable team.</div>
 
                                             </div>
                                         </div>
@@ -322,7 +322,7 @@ const Manageitservice: React.FC = () => {
                                                     </div>
                                                 </div>
 
-                                                <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                                <div className="testimonial-slider__text">A well-defined process was followed during the development process and the team captured requirements diligently.</div>
 
                                             </div>
                                         </div>

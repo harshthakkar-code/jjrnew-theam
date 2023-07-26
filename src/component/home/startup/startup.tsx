@@ -76,14 +76,14 @@ const StartUp: React.FC = () => {
                                 <div className="card-header" id="headingTwo">
                                     <h5 className="mb-0">
                                         <button className="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            What are the advantages of Mitech?<span> <i className="fas fa-chevron-down"></i>
+                                            What are the advantages of JJR Software?<span> <i className="fas fa-chevron-down"></i>
                                     <i className="fas fa-chevron-up"></i> </span>
                                         </button>
                                     </h5>
                                 </div>
                                 <div id="collapseTwo" className="collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
                                     <div className="card-body">
-                                        <p>Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
+                                        <p>JJR Software takes into consideration every little detail to make sure the system run smoothly and responsively. JJR Software employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@ const StartUp: React.FC = () => {
                                 </div>
                                 <div id="collapseThree" className="collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
                                     <div className="card-body">
-                                        <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
+                                        <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure JJR Software would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
                                     </div>
                                 </div>
                             </div>
@@ -509,7 +509,7 @@ const StartUp: React.FC = () => {
                 <div className="col-lg-12">
                     <div className="section-title-wrap text-center section-space--mb_40">
                         <h6 className="section-sub-title mb-20">Testimonials</h6>
-                        <h3 className="heading">What do people praise about <span className="text-color-primary"> Mitech?</span></h3>
+                        <h3 className="heading">What do people praise about <span className="text-color-primary"> JJR Software?</span></h3>
                     </div>
                     <div className="testimonial-slider">
                         <div className="swiper-container testimonial-slider__container">
@@ -537,7 +537,7 @@ const StartUp: React.FC = () => {
                                             </div>
                                         </div>
 
-                                        <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                        <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @JJR Software is one of the most impressive to me.</div>
 
                                     </div>
                                 </div>
@@ -564,7 +564,7 @@ const StartUp: React.FC = () => {
                                             </div>
                                         </div>
 
-                                        <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                        <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @JJR Software is one of the most impressive to me.</div>
 
                                     </div>
                                 </div>
@@ -591,7 +591,7 @@ const StartUp: React.FC = () => {
                                             </div>
                                         </div>
 
-                                        <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                        <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @JJR Software is one of the most impressive to me.</div>
 
                                     </div>
                                 </div>
@@ -618,7 +618,7 @@ const StartUp: React.FC = () => {
                                             </div>
                                         </div>
 
-                                        <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                        <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @JJR Software is one of the most impressive to me.</div>
 
                                     </div>
                                 </div>
@@ -759,7 +759,7 @@ const StartUp: React.FC = () => {
                             <span className="fa fa-phone"></span>
                         </div>
                         <h6 className="heading font-weight--reguler">Reach out now!</h6>
-                        <h2 className="call-us"><a href="tel:190068668">1900 68668</a></h2>
+                        <h2 className="call-us"><a href="tel:190068668">+91 72838 87707</a></h2>
                         <div className="contact-us-button mt-20">
                             <a href="#" className="btn btn--secondary">Contact us</a>
                         </div>

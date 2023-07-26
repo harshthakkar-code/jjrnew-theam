@@ -23,8 +23,8 @@ const About: React.FC = () => {
                         <div className="row">
                             <div className="col-lg-5 offset-lg-1">
                                 <div className="modern-number-01 number-two">
-                                    <h2 className="heading  me-5"><span className="mark-text">38</span>Years’ Experience in IT</h2>
-                                    <h5 className="heading mt-30">We’ve been triumphing all these <span className="text-color-primary"> 38 years. </span> Sacrifices are made up with success. </h5>
+                                    <h2 className="heading  me-5"><span className="mark-text">10</span>Years’ Experience in IT</h2>
+                                    <h5 className="heading mt-30">We’ve been triumphing all these <span className="text-color-primary"> 10 years. </span> Sacrifices are made up with success. </h5>
                                 </div>
                             </div>
 
@@ -51,14 +51,14 @@ const About: React.FC = () => {
                                             <div className="card-header" id="headingTwo">
                                                 <h5 className="mb-0">
                                                     <button className="btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        What are the advantages of Mitech?<span> <i className="fas fa-chevron-down"></i>
+                                                        What are the advantages of JJR Software?<span> <i className="fas fa-chevron-down"></i>
                                         <i className="fas fa-chevron-up"></i> </span>
                                                     </button>
                                                 </h5>
                                             </div>
                                             <div id="collapseTwo" className="collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
                                                 <div className="card-body">
-                                                    <p>Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
+                                                    <p>JJR Software takes into consideration every little detail to make sure the system run smoothly and responsively. Our employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -73,7 +73,7 @@ const About: React.FC = () => {
                                             </div>
                                             <div id="collapseThree" className="collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
                                                 <div className="card-body">
-                                                    <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
+                                                    <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure We would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -120,14 +120,14 @@ const About: React.FC = () => {
                                                         </div>
                                                     </div>
                                                     <div className="heading-wrap">
-                                                        <h5 className="heading">Mitech Management Systems</h5>
+                                                        <h5 className="heading">JJR Software Management Systems</h5>
                                                     </div>
 
                                                 </div>
                                             </div>
 
                                             <div className="box-large-image__content mt-30 text-center">
-                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                <p>We're excited to share how  <strong>Our cutting-edge Management System</strong> can revolutionize your business operations.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -155,7 +155,7 @@ const About: React.FC = () => {
                                             </div>
 
                                             <div className="box-large-image__content mt-30 text-center">
-                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                <p>Join us at JJR Software as we explore the importance of <strong>data base security</strong> and how it enhances your business efficiency.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -183,7 +183,7 @@ const About: React.FC = () => {
                                             </div>
 
                                             <div className="box-large-image__content mt-40 text-center">
-                                                <p>Our technical experts have a flair for developing <strong>clean-coded websites</strong> based on customers’ needs, global guidelines and trends.</p>
+                                                <p>Join us at JJR Software as we delve into the essence of reliability and  <strong> how it empowers businesses</strong> to thrive in the digital era.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -301,7 +301,7 @@ const About: React.FC = () => {
                                                         </h5>
                                                     </div>
                                                     <div className="content">
-                                                        <div className="text">Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management.</div>
+                                                        <div className="text">At JJR Software, we shine a light on the transformative impact of a robust Quality Assurance System. </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -316,11 +316,11 @@ const About: React.FC = () => {
                                                             <i className="fas fa-lock"></i>
                                                         </div>
                                                         <h5 className="heading">
-                                                            Accurate Testing Processes
+                                                            Accurate iing Processes
                                                         </h5>
                                                     </div>
                                                     <div className="content">
-                                                        <div className="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
+                                                        <div className="text">At JJR Software, we unveil the essence of accurate testing processes and their role in delivering flawless products.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -339,7 +339,7 @@ const About: React.FC = () => {
                                                         </h5>
                                                     </div>
                                                     <div className="content">
-                                                        <div className="text">Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.</div>
+                                                        <div className="text">At JJR Software, we reveal the transformative potential of automating API generation.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -358,7 +358,7 @@ const About: React.FC = () => {
                                                         </h5>
                                                     </div>
                                                     <div className="content">
-                                                        <div className="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.</div>
+                                                        <div className="text">At JJR Software, we explore the transformative impact of Infrastructure Integration Technology. </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -380,25 +380,25 @@ const About: React.FC = () => {
                     <div className="row">
                         <div className="col-md-3 col-sm-6 wow move-up">
                             <div className="fun-fact--two text-center">
-                                <div className="fun-fact__count counter">120</div>
+                                <div className="fun-fact__count counter">50</div>
                                 <h6 className="fun-fact__text">Happy clients</h6>
                             </div>
                         </div>
                         <div className="col-md-3 col-sm-6 wow move-up">
                             <div className="fun-fact--two text-center">
-                                <div className="fun-fact__count counter">32</div>
+                                <div className="fun-fact__count counter">20</div>
                                 <h6 className="fun-fact__text">Finished projects</h6>
                             </div>
                         </div>
                         <div className="col-md-3 col-sm-6 wow move-up">
                             <div className="fun-fact--two text-center">
-                                <div className="fun-fact__count counter">73</div>
+                                <div className="fun-fact__count counter">30</div>
                                 <h6 className="fun-fact__text">Skilled Experts</h6>
                             </div>
                         </div>
                         <div className="col-md-3 col-sm-6 wow move-up">
                             <div className="fun-fact--two text-center">
-                                <div className="fun-fact__count counter">318</div>
+                                <div className="fun-fact__count counter">105</div>
                                 <h6 className="fun-fact__text">Media Posts</h6>
                             </div>
                         </div>
@@ -460,7 +460,7 @@ const About: React.FC = () => {
                         <div className="col-lg-5 ms-auto">
                             <div className="contact-info-three text-left">
                                 <h6 className="heading font-weight--reguler">Reach out now!</h6>
-                                <h3 className="call-us"><a href="tel:123 567990">(+00) 123 567990</a></h3>
+                                <h3 className="call-us"><a href="tel:123 567990">(+91) 72838 87707</a></h3>
                                 <div className="text">Start the collaboration with us while figuring out the best solution based on your needs.</div>
                                 <div className="location-button mt-20">
                                     <a href="#" className="location-text-button"><span className="button-icon"></span> <span className="button-text">View on Google map</span></a>

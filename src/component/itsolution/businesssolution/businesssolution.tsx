@@ -25,12 +25,12 @@ const Businesssolution: React.FC = () => {
                             <div className="row">
                                 <div className="col-lg-4">
                                     <div className="conact-us-wrap-one managed-it">
-                                        <h5 className="heading ">Mitech specializes in <span className="text-color-primary"> technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc. </h5>
+                                        <h5 className="heading ">JJR Software specializes in <span className="text-color-primary"> technological and IT-related services</span> such as Mobile App Development, Web Development, UI/UX Designer, B2B etc. </h5>
                                     </div>
                                 </div>
                                 <div className="col-lg-7 offset-lg-1">
                                     <div className="cybersecurity-about-text">
-                                        <div className="text">The IT services that Mitech are running can be segmented by the type of skills employed to deliver the service (design, build, run). Technically, these fall into three main categories: business process services, application services, and infrastructure services.</div>
+                                        <div className="text">In a sea of technology providers, finding the right partner for your business can be daunting.  Join us as we unveil the reasons why choosing us is a decision that unlocks unparalleled success.</div>
                                         <div className="button-group-wrap">
                                             <a href="#" className="ht-btn ht-btn-md me-md-3 mb-20">Get a FREE no-obligation quote</a>
                                             <a href="#" className="ht-btn ht-btn-md ht-btn--solid">Live chat with a consultant</a>
@@ -70,8 +70,8 @@ const Businesssolution: React.FC = () => {
                                                         <img className="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-01-60x60.webp" alt=""/>
                                                     </div>
                                                     <div className="content">
-                                                        <h5 className="heading">IT Design</h5>
-                                                        <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.</div>
+                                                        <h5 className="heading">UI/UX Design</h5>
+                                                        <div className="text">we unleash the power of UI/UX design to elevate your digital products and leave a lasting impression on your users. </div>
                                                     </div>
                                                 </div>
                                             </a>
@@ -85,8 +85,8 @@ const Businesssolution: React.FC = () => {
                                                         <img className="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-02-60x60.webp" alt=""/>
                                                     </div>
                                                     <div className="content">
-                                                        <h5 className="heading">IT Management </h5>
-                                                        <div className="text">It’s possible to simultaneously manage and transform information from one server to another.</div>
+                                                        <h5 className="heading">Mobile App Development </h5>
+                                                        <div className="text">we are your trusted partner in mobile app development, dedicated to turning your vision into a stunning reality.</div>
                                                     </div>
                                                 </div>
                                             </a>
@@ -100,8 +100,8 @@ const Businesssolution: React.FC = () => {
                                                         <img className="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-03-60x60.webp" alt=""/>
                                                     </div>
                                                     <div className="content">
-                                                        <h5 className="heading">Data Security</h5>
-                                                        <div className="text">Back up your database, store in a safe and secure place while still maintaining its accessibility.</div>
+                                                        <h5 className="heading">Web Development</h5>
+                                                        <div className="text">we unleash the power of web development to create stunning, responsive, and high-performing websites that leave a lasting impression on your visitors.</div>
                                                     </div>
                                                 </div>
                                             </a>
@@ -115,8 +115,8 @@ const Businesssolution: React.FC = () => {
                                                         <img className="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-04-60x60.webp" alt=""/>
                                                     </div>
                                                     <div className="content">
-                                                        <h5 className="heading">Workforce Management</h5>
-                                                        <div className="text">Suspe ndisse suscipit sagittis leo sit met condime ntum esti laiolainx bulum iscipit sagittis leo sit met con ndisse suscipit sagittis leo sit met cone su</div>
+                                                        <h5 className="heading">ERP Solution</h5>
+                                                        <div className="text">we unveil the power of ERP (Enterprise Resource Planning) solutions, a game-changing approach to streamline and optimize your business operations. </div>
                                                     </div>
                                                 </div>
                                             </a>
@@ -130,8 +130,8 @@ const Businesssolution: React.FC = () => {
                                                         <img className="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-05-60x60.webp" alt=""/>
                                                     </div>
                                                     <div className="content">
-                                                        <h5 className="heading">Business Reform</h5>
-                                                        <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.</div>
+                                                        <h5 className="heading">Graphics Designer</h5>
+                                                        <div className="text">we take pride in our exceptional graphic designers who can transform your brand's vision into stunning visual experiences.</div>
                                                     </div>
                                                 </div>
                                             </a>
@@ -145,8 +145,8 @@ const Businesssolution: React.FC = () => {
                                                         <img className="img-fulid" src="assets/images/icons/mitech-box-image-style-05-image-06-60x60.webp" alt=""/>
                                                     </div>
                                                     <div className="content">
-                                                        <h5 className="heading">Infrastructure Plan</h5>
-                                                        <div className="text">Mitech takes into account all conditions and budgets needed for building infrastructure plan..</div>
+                                                        <h5 className="heading">Data Security</h5>
+                                                        <div className="text">we recognize the criticality of data security and provide robust solutions to protect your digital assets from potential threats.</div>
                                                     </div>
                                                 </div>
                                             </a>
@@ -179,22 +179,22 @@ const Businesssolution: React.FC = () => {
                                     <div className="list-item">
                                         <div className="marker"></div>
                                         <div className="title-wrap">
-                                            <h5 className="title">IT Design </h5>
-                                            <div className="desc">We provide the most responsive and functional IT design for companies and businesses worldwide. </div>
+                                            <h5 className="title">UI/UX Design </h5>
+                                            <div className="desc">Intuitive UI/UX design that captivates and delights users. </div>
                                         </div>
                                     </div>
                                     <div className="list-item">
                                         <div className="marker"></div>
                                         <div className="title-wrap">
-                                            <h5 className="title"> Data Security </h5>
-                                            <div className="desc">Back up your database, store in a safe and secure place while still maintaining its accessibility. </div>
+                                            <h5 className="title"> Mobile App Development </h5>
+                                            <div className="desc">Expert mobile app development for cutting-edge solutions. </div>
                                         </div>
                                     </div>
                                     <div className="list-item">
                                         <div className="marker"></div>
                                         <div className="title-wrap">
-                                            <h5 className="title">Infrastructure Plan </h5>
-                                            <div className="desc">Mitech takes into account all conditions and budgets needed for building infrastructure plan. </div>
+                                            <h5 className="title">Web Development </h5>
+                                            <div className="desc">Professional web development for a powerful online presence. </div>
                                         </div>
                                     </div>
                                 </div>
@@ -204,22 +204,22 @@ const Businesssolution: React.FC = () => {
                                     <div className="list-item">
                                         <div className="marker"></div>
                                         <div className="title-wrap">
-                                            <h5 className="title">IT Management </h5>
-                                            <div className="desc">It’s possible to simultaneously manage and transform key information from one server to another. </div>
+                                            <h5 className="title">ERP Solution </h5>
+                                            <div className="desc">Streamlined business operations with our comprehensive ERP solution.</div>
                                         </div>
                                     </div>
                                     <div className="list-item">
                                         <div className="marker"></div>
                                         <div className="title-wrap">
-                                            <h5 className="title">Business Reform</h5>
-                                            <div className="desc">We propose feasible & practical plans for successfully transform businesses based on their needs. </div>
+                                            <h5 className="title">Graphics Designer</h5>
+                                            <div className="desc">Transforming visions into stunning visual experiences with our skilled graphic designers. </div>
                                         </div>
                                     </div>
                                     <div className="list-item">
                                         <div className="marker"></div>
                                         <div className="title-wrap">
-                                            <h5 className="title">Firewall Advancement </h5>
-                                            <div className="desc">Enhancing the strength and security of firewalls to protect online data from malicious sources. </div>
+                                            <h5 className="title">Digital Marketing </h5>
+                                            <div className="desc">Maximize your online presence with strategic digital marketing. </div>
                                         </div>
                                     </div>
                                 </div>
@@ -262,7 +262,7 @@ const Businesssolution: React.FC = () => {
                             <div className="col-lg-12">
                                 <div className="section-title-wrap text-center section-space--mb_40">
                                     <h6 className="section-sub-title mb-20">Testimonials</h6>
-                                    <h3 className="heading">What do people praise about <span className="text-color-primary"> Mitech?</span></h3>
+                                    <h3 className="heading">What do people praise about <span className="text-color-primary"> JJR Software?</span></h3>
                                 </div>
                                 <div className="testimonial-slider">
                                     <div className="swiper-container testimonial-slider__container">
@@ -285,12 +285,12 @@ const Businesssolution: React.FC = () => {
                                                             </div>
                                                             <div className="author-info">
                                                                 <h6 className="name">Abbie Ferguson</h6>
-                                                                <span className="designation">Marketing</span>
+                                                                <span className="designation">Businessman</span>
                                                             </div>
                                                         </div>
                                                     </div>
 
-                                                    <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                                    <div className="testimonial-slider__text">Always listened to my thoughts and came up with creative design solutions The team is also flexible enough to adjust to the schedule.</div>
 
                                                 </div>
                                             </div>
@@ -317,7 +317,7 @@ const Businesssolution: React.FC = () => {
                                                         </div>
                                                     </div>
 
-                                                    <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                                    <div className="testimonial-slider__text">It's rewarding to work with a diligent and dedicated team. Excellent guys to work with!</div>
 
                                                 </div>
                                             </div>
@@ -344,7 +344,7 @@ const Businesssolution: React.FC = () => {
                                                         </div>
                                                     </div>
 
-                                                    <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                                    <div className="testimonial-slider__text">Great place to work with. work efficiency is excellent with skilled and knoweledgeable team.</div>
 
                                                 </div>
                                             </div>
@@ -371,7 +371,7 @@ const Businesssolution: React.FC = () => {
                                                         </div>
                                                     </div>
 
-                                                    <div className="testimonial-slider__text">I’ve been working with over 35 IT companies on more than 200 projects of our company, but @Mitech is one of the most impressive to me.</div>
+                                                    <div className="testimonial-slider__text">A well-defined process was followed during the development process and the team captured requirements diligently.</div>
 
                                                 </div>
                                             </div>
@@ -509,19 +509,19 @@ const Businesssolution: React.FC = () => {
                                             <span className="fa fa-star"></span>
                                             <span className="fa fa-star"></span>
                                         </div>
-                                        <p className="sub-text">by 700+ customers for 3200+ clients</p>
+                                        
                                     </div>
 
                                     <div className="contact-list-item">
-                                        <a href="tel:190068668" className="single-contact-list">
+                                        <a href="tel:(+91) 72838 87707" className="single-contact-list">
                                             <div className="content-wrap">
                                                 <div className="content">
                                                     <div className="icon">
                                                         <span className="fas fa-phone"></span>
                                                     </div>
                                                     <div className="main-content">
-                                                        <h6 className="heading">Call for advice now!</h6>
-                                                        <div className="text">1900 68668</div>
+                                                        <h6 className="heading">Call for inquiry now!</h6>
+                                                        <div className="text">(+91) 72838 87707</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -534,7 +534,7 @@ const Businesssolution: React.FC = () => {
                                                     </div>
                                                     <div className="main-content">
                                                         <h6 className="heading">Say hello</h6>
-                                                        <div className="text">hello@mitech.com</div>
+                                                        <div className="text">admin@jjrsoftware.com</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -582,7 +582,7 @@ const Businesssolution: React.FC = () => {
                                                 <textarea name="con_message" placeholder="Please describe what you need."></textarea>
                                             </div>
                                             <div className="comment-submit-btn">
-                                                <button className="ht-btn ht-btn-md" type="submit">Get a free consultation</button>
+                                                <button className="ht-btn ht-btn-md" type="submit">Submit</button>
                                                 <p className="form-messege"></p>
                                             </div>
                                         </div>

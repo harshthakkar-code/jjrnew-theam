@@ -12,10 +12,10 @@ const Footer: React.FC = () => {
                         <img src="assets/images/logo/dark-logo-160x48.webp" width="160" height="48" className="img-fluid" alt=""/>
                     </div>
                     <ul className="footer-widget__list">
-                        <li>58 Howard Street #2 San Francisco, CA 941</li>
-                        <li><a href="mailto:contact@aeroland.com" className="hover-style-link">contact@aeroland.com</a></li>
-                        <li><a href="tel:123344556" className="hover-style-link text-black font-weight--bold">(+68)1221 09876</a></li>
-                        <li><a href="https://hasthemes.com/" className="hover-style-link text-color-primary">www.mitech.xperts.com</a></li>
+                        <li>Ahmedabad, Gujarat</li>
+                        <li><a href="mailto:admin@jjrsoftware.com" className="hover-style-link">admin@jjrsoftware.com</a></li>
+                        <li><a href="tel:123344556" className="hover-style-link text-black font-weight--bold">(+91) 72838 87707</a></li>
+                        <li><a href="https://hasthemes.com/" className="hover-style-link text-color-primary">www.jjrsofttware.com</a></li>
                     </ul>
                 </div>
                 <div className="col-lg-2 col-md-4 col-sm-6 footer-widget">
@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
         <div className="container">
             <div className="row align-items-center">
                 <div className="col-md-6 text-center text-md-start">
-                    <span className="copyright-text">&copy; 2023 Mitech. <a href="https://hasthemes.com/">All Rights Reserved.</a></span>
+                    <span className="copyright-text">&copy; 2023 JJR Software. <a href="https://hasthemes.com/">All Rights Reserved.</a></span>
                 </div>
                 <div className="col-md-6 text-center text-md-end">
                     <ul className="list ht-social-networks solid-rounded-icon">
