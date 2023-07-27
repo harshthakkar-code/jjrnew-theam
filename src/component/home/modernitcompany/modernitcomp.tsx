@@ -55,7 +55,7 @@ const Moderncomp: React.FC = () => {
                                                     </div>
                                                     <div className="col-lg-12">
                                                         <div className="button-wrap">
-                                                            <a href="#" className="ht-btn ht-btn-md ht-btn-full" type="submit">Get a free consultation</a>
+                                                            <a   className="ht-btn ht-btn-md ht-btn-full" type="submit">Get a free consultation</a>
                                                             <p className="form-messege"></p>
                                                         </div>
                                                     </div>
@@ -87,7 +87,7 @@ const Moderncomp: React.FC = () => {
                                     <div className="swiper-container brand-logo-slider__container">
                                         <div className="swiper-wrapper brand-logo-slider__one">
                                             <div className="swiper-slide brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-01.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -97,7 +97,7 @@ const Moderncomp: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="swiper-slide brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-02.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -107,7 +107,7 @@ const Moderncomp: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="swiper-slide brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-03.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -117,7 +117,7 @@ const Moderncomp: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="swiper-slide brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-04.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -127,7 +127,7 @@ const Moderncomp: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="swiper-slide brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-05.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -137,7 +137,7 @@ const Moderncomp: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="swiper-slide brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-06.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -147,7 +147,7 @@ const Moderncomp: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="swiper-slide brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-07.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -157,7 +157,7 @@ const Moderncomp: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="swiper-slide brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-08.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -167,7 +167,7 @@ const Moderncomp: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="swiper-slide brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-09.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -283,7 +283,7 @@ const Moderncomp: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="more-arrow-link">
-                                                        <a href="#">
+                                                        <a  >
                                                             Learn more <i className="fas fa-arrow-left"></i>
                                                         </a>
                                                     </div>
@@ -304,7 +304,7 @@ const Moderncomp: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="more-arrow-link">
-                                                        <a href="#">
+                                                        <a  >
                                                             Learn more <i className="fas fa-arrow-left"></i>
                                                         </a>
                                                     </div>
@@ -325,7 +325,7 @@ const Moderncomp: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="more-arrow-link">
-                                                        <a href="#">
+                                                        <a  >
                                                             Learn more <i className="fas fa-arrow-left"></i>
                                                         </a>
                                                     </div>
@@ -346,7 +346,7 @@ const Moderncomp: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="more-arrow-link">
-                                                        <a href="#">
+                                                        <a  >
                                                             Learn more <i className="fas fa-arrow-left"></i>
                                                         </a>
                                                     </div>
@@ -367,7 +367,7 @@ const Moderncomp: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="more-arrow-link">
-                                                        <a href="#">
+                                                        <a  >
                                                             Learn more <i className="fas fa-arrow-left"></i>
                                                         </a>
                                                     </div>
@@ -388,7 +388,7 @@ const Moderncomp: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="more-arrow-link">
-                                                        <a href="#">
+                                                        <a  >
                                                             Learn more <i className="fas fa-arrow-left"></i>
                                                         </a>
                                                     </div>
@@ -411,7 +411,7 @@ const Moderncomp: React.FC = () => {
                                     </div>
                                     <div className="talk-message-box-content ">
                                         <h6 className="heading">Cheers to the work that comes from trusted service providers in time.</h6>
-                                        <a href="#" className="ht-btn ht-btn-sm">Let's talk</a>
+                                        <a   className="ht-btn ht-btn-sm">Let's talk</a>
                                     </div>
                                 </div>
                             </div>
@@ -443,7 +443,7 @@ const Moderncomp: React.FC = () => {
                                 <div className="swiper-wrapper">
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-3 wow move-up">
+                                        <a   className="projects-wrap style-3 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/home-reputable-success-client-image-05-480x360.webp" alt=""/>
@@ -463,7 +463,7 @@ const Moderncomp: React.FC = () => {
                                     </div>
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-3 wow move-up">
+                                        <a   className="projects-wrap style-3 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/home-reputable-success-client-image-06-480x360.webp" alt=""/>
@@ -483,7 +483,7 @@ const Moderncomp: React.FC = () => {
                                     </div>
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-3 wow move-up">
+                                        <a   className="projects-wrap style-3 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/home-reputable-success-client-image-01-480x360.webp" alt=""/>
@@ -503,7 +503,7 @@ const Moderncomp: React.FC = () => {
                                     </div>
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-3 wow move-up">
+                                        <a   className="projects-wrap style-3 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/home-reputable-success-client-image-02-480x360.webp" alt=""/>
@@ -523,7 +523,7 @@ const Moderncomp: React.FC = () => {
                                     </div>
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-3 wow move-up">
+                                        <a   className="projects-wrap style-3 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/home-reputable-success-client-image-03-480x360.webp" alt=""/>
@@ -547,7 +547,7 @@ const Moderncomp: React.FC = () => {
                                 <div className="swiper-pagination swiper-pagination-black swiper-pagination-project mt_20"></div>
                             </div>
 
-                            <div className="section-under-heading text-center section-space--mt_40">Never underestimate your potentials. <a href="#">It all started here.</a></div>
+                            <div className="section-under-heading text-center section-space--mt_40">Never underestimate your potentials. <a  >It all started here.</a></div>
 
                         </div>
                     </div>
@@ -576,7 +576,7 @@ const Moderncomp: React.FC = () => {
                                 <h6 className="heading font-weight--reguler">Reach out now!</h6>
                                 <h2 className="call-us"><a href="tel:190068668">1900 68668</a></h2>
                                 <div className="contact-us-button mt-20">
-                                    <a href="#" className="btn btn--secondary">Contact us</a>
+                                    <a   className="btn btn--secondary">Contact us</a>
                                 </div>
                             </div>
                         </div>
@@ -674,7 +674,7 @@ const Moderncomp: React.FC = () => {
                                 </div>
                                 <div className="content">
                                     <h4 className="heading mb-20">Read further to <br/> our Success <br/> Stories</h4>
-                                    <a href="#" className="ht-btn ht-btn-md"><i className="far fa-comment-alt me-2"></i> Let's talk</a>
+                                    <a   className="ht-btn ht-btn-md"><i className="far fa-comment-alt me-2"></i> Let's talk</a>
                                 </div>
                             </div>
                         </div>
@@ -688,7 +688,7 @@ const Moderncomp: React.FC = () => {
                                         <input name="con_email" type="email" placeholder="Your e-mail"/>
                                     </div>
                                     <div className="button-wrap mb-15">
-                                        <a href="#" className="ht-btn ht-btn-md ht-btn-full">Subscribe</a>
+                                        <a   className="ht-btn ht-btn-md ht-btn-full">Subscribe</a>
                                     </div>
                                     <p>Join 89.898 subscribers.</p>
                                 </form>

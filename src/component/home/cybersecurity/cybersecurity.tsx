@@ -15,7 +15,7 @@ const Cybersecurity: React.FC = () => {
                                     <h6>figure plans out </h6>
                                     <h3 className="font-weight--reguler mb-30">Get insights into the <span className="text-color-primary">mechanism</span> & <span className="text-color-primary">prospects</span> of cyber security technology</h3>
                                     <div className="hero-button mt-30">
-                                        <a href="#" className="ht-btn ht-btn-md">Dig deeper now </a>
+                                        <a   className="ht-btn ht-btn-md">Dig deeper now </a>
                                     </div>
                                 </div>
                             </div>
@@ -63,7 +63,7 @@ const Cybersecurity: React.FC = () => {
                                     <div className="cybersecurity-about-text">
                                         <div className="text">Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</div>
                                         <div className="button-text">
-                                            <a href="#" className="btn-text">
+                                            <a   className="btn-text">
                                                 Discover now
                                                 <span className="button-icon ml-1">
                                     <i className="fas fa-arrow-right"></i>
@@ -84,7 +84,7 @@ const Cybersecurity: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6 wow move-up">
                                         {/* <!-- ht-box-icon Start --> */}
-                                        <a href="#" className="ht-large-box-images style-03">
+                                        <a   className="ht-large-box-images style-03">
                                             <div className="large-image-box">
                                                 <div className="box-image">
                                                     <div className="default-image">
@@ -106,7 +106,7 @@ const Cybersecurity: React.FC = () => {
                                     </div>
                                     <div className="col-lg-4 col-md-6 wow move-up">
                                         {/* <!-- ht-box-icon Start --> */}
-                                        <a href="#" className="ht-large-box-images style-03">
+                                        <a   className="ht-large-box-images style-03">
                                             <div className="large-image-box">
                                                 <div className="box-image">
                                                     <div className="default-image">
@@ -128,7 +128,7 @@ const Cybersecurity: React.FC = () => {
                                     </div>
                                     <div className="col-lg-4 col-md-6 wow move-up">
                                         {/* <!-- ht-box-icon Start --> */}
-                                        <a href="#" className="ht-large-box-images style-03">
+                                        <a   className="ht-large-box-images style-03">
                                             <div className="large-image-box">
                                                 <div className="box-image">
                                                     <div className="default-image">
@@ -152,7 +152,7 @@ const Cybersecurity: React.FC = () => {
 
                                 </div>
 
-                                <div className="section-under-heading text-center section-space--mt_20">Challenges are just opportunities in disguise <a href="#">Take the challenge!</a></div>
+                                <div className="section-under-heading text-center section-space--mt_20">Challenges are just opportunities in disguise <a  >Take the challenge!</a></div>
 
 
                             </div>
@@ -188,7 +188,7 @@ const Cybersecurity: React.FC = () => {
                                                         <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                         </div>
                                                         <div className="feature-btn">
-                                                            <a href="#">
+                                                            <a  >
                                                                 <span className="button-text">Discover now</span>
                                                                 <i className="fas fa-arrow-right"></i>
                                                             </a>
@@ -208,7 +208,7 @@ const Cybersecurity: React.FC = () => {
                                                         <div className="text">It’s possible to simultaneously manage and transform information from one server to another.
                                                         </div>
                                                         <div className="feature-btn">
-                                                            <a href="#">
+                                                            <a  >
                                                                 <span className="button-text">Discover now</span>
                                                                 <i className="fas fa-arrow-right"></i>
                                                             </a>
@@ -229,7 +229,7 @@ const Cybersecurity: React.FC = () => {
                                                         <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                         </div>
                                                         <div className="feature-btn">
-                                                            <a href="#">
+                                                            <a  >
                                                                 <span className="button-text">Discover now</span>
                                                                 <i className="fas fa-arrow-right"></i>
                                                             </a>
@@ -251,7 +251,7 @@ const Cybersecurity: React.FC = () => {
                                                         <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                         </div>
                                                         <div className="feature-btn">
-                                                            <a href="#">
+                                                            <a  >
                                                                 <span className="button-text">Discover now</span>
                                                                 <i className="fas fa-arrow-right"></i>
                                                             </a>
@@ -273,7 +273,7 @@ const Cybersecurity: React.FC = () => {
                                                         <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                         </div>
                                                         <div className="feature-btn">
-                                                            <a href="#">
+                                                            <a  >
                                                                 <span className="button-text">Discover now</span>
                                                                 <i className="fas fa-arrow-right"></i>
                                                             </a>
@@ -295,7 +295,7 @@ const Cybersecurity: React.FC = () => {
                                                         <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                         </div>
                                                         <div className="feature-btn">
-                                                            <a href="#">
+                                                            <a  >
                                                                 <span className="button-text">Discover now</span>
                                                                 <i className="fas fa-arrow-right"></i>
                                                             </a>
@@ -437,7 +437,7 @@ const Cybersecurity: React.FC = () => {
                                         </div>
                                         <div className="pricing-table__body">
                                             <div className="pricing-table__footer">
-                                                <a href="#" className="ht-btn ht-btn-md ht-btn--outline">Get started</a>
+                                                <a   className="ht-btn ht-btn-md ht-btn--outline">Get started</a>
                                             </div>
                                             <ul className="pricing-table__list text-left">
                                                 <li>03 projects</li>
@@ -465,7 +465,7 @@ const Cybersecurity: React.FC = () => {
                                         </div>
                                         <div className="pricing-table__body">
                                             <div className="pricing-table__footer">
-                                                <a href="#" className="ht-btn  ht-btn-md ">Get started</a>
+                                                <a   className="ht-btn  ht-btn-md ">Get started</a>
                                             </div>
                                             <ul className="pricing-table__list text-left">
                                                 <li>Unlimited project</li>
@@ -491,7 +491,7 @@ const Cybersecurity: React.FC = () => {
                                         </div>
                                         <div className="pricing-table__body">
                                             <div className="pricing-table__footer">
-                                                <a href="#" className="ht-btn ht-btn-md ht-btn--outline">Get started</a>
+                                                <a   className="ht-btn ht-btn-md ht-btn--outline">Get started</a>
                                             </div>
                                             <ul className="pricing-table__list text-left">
                                                 <li>10 projects</li>
@@ -517,19 +517,19 @@ const Cybersecurity: React.FC = () => {
                                     <h3 className="heading">Interesting articles<span className="text-color-primary"> updated daily</span></h3>
                                     <ul className="infotechno-blog-list mt-30">
                                         <li>
-                                            <a href="#">Ideas for High Returns on Investment</a>
+                                            <a  >Ideas for High Returns on Investment</a>
                                         </li>
                                         <li>
-                                            <a href="#">How Technology Made Businesses More Efficient</a>
+                                            <a  >How Technology Made Businesses More Efficient</a>
                                         </li>
                                         <li>
-                                            <a href="#">Data Secure on Transitioning to a New Office</a>
+                                            <a  >Data Secure on Transitioning to a New Office</a>
                                         </li>
                                         <li>
-                                            <a href="#">The Keys to Persuading Customers Nowadays</a>
+                                            <a  >The Keys to Persuading Customers Nowadays</a>
                                         </li>
                                         <li>
-                                            <a href="#">Blockchain Technology Effects on Logistics Sector?</a>
+                                            <a  >Blockchain Technology Effects on Logistics Sector?</a>
                                         </li>
                                     </ul>
 
@@ -558,14 +558,14 @@ const Cybersecurity: React.FC = () => {
                                         </div>
 
                                         <h5 className="post-title font-weight--bold">
-                                            <a href="#">5 Ways Technology Has Improved Business Today</a>
+                                            <a  >5 Ways Technology Has Improved Business Today</a>
                                         </h5>
 
                                         <div className="post-excerpt mt-15">
                                             <p>They play a role in making operations more seamless, bridging the gap between authorities, consumers and businesses. …</p>
                                         </div>
                                         <div className="btn-text">
-                                            <a href="#">Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
+                                            <a  >Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                     {/* <!-- Post info End --> */}
@@ -595,14 +595,14 @@ const Cybersecurity: React.FC = () => {
                                         </div>
 
                                         <h5 className="post-title font-weight--bold">
-                                            <a href="#">How Wireless Technology is Changing Business</a>
+                                            <a  >How Wireless Technology is Changing Business</a>
                                         </h5>
 
                                         <div className="post-excerpt mt-15">
                                             <p>It is far wiser to do your own installations and ensure that all data flowing through the organization has end-to-end encryption. …</p>
                                         </div>
                                         <div className="btn-text">
-                                            <a href="#">Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
+                                            <a  >Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                     {/* <!-- Post info End --> */}
@@ -626,7 +626,7 @@ const Cybersecurity: React.FC = () => {
                                         <h3 className="font-weight--reguler">Qualified methods <span className="text-color-primary">at its best</span></h3>
                                         <p className="redwaw-dec">How IT services change people's life for the better </p>
                                         <div className="bedraw-button">
-                                            <a href="#" className="ht-btn ht-btn-md">Download free proposal sample <i className="fas fa-arrow-right ml-2"></i></a>
+                                            <a   className="ht-btn ht-btn-md">Download free proposal sample <i className="fas fa-arrow-right ml-2"></i></a>
                                         </div>
                                     </div>
 

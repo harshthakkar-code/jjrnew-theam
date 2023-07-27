@@ -51,7 +51,7 @@ const Itservice: React.FC = () => {
                     <div className="swiper-wrapper service-slider__wrapper feature-images__three">
                         <div className="swiper-slide">
                             {/* <!-- ht-box-icon Start --> */}
-                            <a href="#" className="ht-box-images style-03 wow move-up">
+                            <a   className="ht-box-images style-03 wow move-up">
                                 <div className="image-box-wrap">
                                     <div className="box-image">
                                         <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-01-80x83.webp" alt=""/>
@@ -66,7 +66,7 @@ const Itservice: React.FC = () => {
                         </div>
                         <div className="swiper-slide">
                             {/* <!-- ht-box-icon Start --> */}
-                            <a href="#" className="ht-box-images style-03 wow move-up">
+                            <a   className="ht-box-images style-03 wow move-up">
                                 <div className="image-box-wrap">
                                     <div className="box-image">
                                         <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-02-80x83.webp" alt=""/>
@@ -81,7 +81,7 @@ const Itservice: React.FC = () => {
                         </div>
                         <div className="swiper-slide">
                             {/* <!-- ht-box-icon Start --> */}
-                            <a href="#" className="ht-box-images style-03 wow move-up">
+                            <a   className="ht-box-images style-03 wow move-up">
                                 <div className="image-box-wrap">
                                     <div className="box-image">
                                         <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-03-80x83.webp" alt=""/>
@@ -96,7 +96,7 @@ const Itservice: React.FC = () => {
                         </div>
                         <div className="swiper-slide">
                             {/* <!-- ht-box-icon Start --> */}
-                            <a href="#" className="ht-box-images style-03 wow move-up">
+                            <a   className="ht-box-images style-03 wow move-up">
                                 <div className="image-box-wrap">
                                     <div className="box-image">
                                         <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-04-80x83.webp" alt=""/>
@@ -111,7 +111,7 @@ const Itservice: React.FC = () => {
                         </div>
                         <div className="swiper-slide">
                             {/* <!-- ht-box-icon Start --> */}
-                            <a href="#" className="ht-box-images style-03 wow move-up">
+                            <a   className="ht-box-images style-03 wow move-up">
                                 <div className="image-box-wrap">
                                     <div className="box-image">
                                         <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-05-80x83.webp" alt=""/>
@@ -154,7 +154,7 @@ const Itservice: React.FC = () => {
                                     <p className="text mt-30">Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers’ database & building up highly confidential firewalls.</p>
 
                                     <div className="inner-button-box section-space--mt_60">
-                                        <a href="#" className="ht-btn ht-btn-md">Find out more</a>
+                                        <a   className="ht-btn ht-btn-md">Find out more</a>
                                     </div>
                                 </div>
                             </div>
@@ -240,7 +240,7 @@ const Itservice: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -260,7 +260,7 @@ const Itservice: React.FC = () => {
                                                     <div className="text">It’s possible to simultaneously manage and transform information from one server to another.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -281,7 +281,7 @@ const Itservice: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -303,7 +303,7 @@ const Itservice: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -325,7 +325,7 @@ const Itservice: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -347,7 +347,7 @@ const Itservice: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -362,8 +362,8 @@ const Itservice: React.FC = () => {
                         </div>
                         <div className="col-lg-12">
                             <div className="feature-list-button-box mt-30 text-center">
-                                <a href="#" className="ht-btn ht-btn-md">Talk to a consultant</a>
-                                <a href="#" className="ht-btn ht-btn-md ht-btn--outline">Contact us now </a>
+                                <a   className="ht-btn ht-btn-md">Talk to a consultant</a>
+                                <a   className="ht-btn ht-btn-md ht-btn--outline">Contact us now </a>
                             </div>
                         </div>
                     </div>
@@ -416,7 +416,7 @@ const Itservice: React.FC = () => {
 
                                         <div className="text">We meet customers in set place to discuss the details about needs and demands before proposing a plan.</div>
 
-                                        <a className="gradation-btn" href="#">
+                                        <a className="gradation-btn"  >
                                             <span className="button-text" data-text="Look more">
                                         Look more </span>
                                             <span className="button-icon fas fa-arrow-right"></span>
@@ -444,7 +444,7 @@ const Itservice: React.FC = () => {
 
                                         <div className="text">Our experts come up with all kinds of ideas and initiatives for delivering the best solutions for IT services chosen.</div>
 
-                                        <a className="gradation-btn" href="#">
+                                        <a className="gradation-btn"  >
                                             <span className="button-text" data-text="Look more">
                                         Look more </span>
                                             <span className="button-icon fas fa-arrow-right"></span>
@@ -472,7 +472,7 @@ const Itservice: React.FC = () => {
 
                                         <div className="text">After agreeing on the ideas and plans, we will conduct as scheduled and give comments on the results &amp; adaptations.</div>
 
-                                        <a className="gradation-btn" href="#">
+                                        <a className="gradation-btn"  >
                                             <span className="button-text" data-text="Look more">
                                         Look more </span>
                                             <span className="button-icon fas fa-arrow-right"></span>
@@ -500,7 +500,7 @@ const Itservice: React.FC = () => {
 
                                         <div className="text">Once the final plan is approved, everything will be conducted according to the agreed contract.</div>
 
-                                        <a className="gradation-btn" href="#">
+                                        <a className="gradation-btn"  >
                                             <span className="button-text" data-text="Look more">
                                         Look more </span>
                                             <span className="button-icon fas fa-arrow-right"></span>
@@ -537,8 +537,8 @@ const Itservice: React.FC = () => {
                         </div>
                         <div className="col-xl-4 col-lg-5">
                             <div className="cta-button-group--one text-center">
-                                <a href="#" className="btn btn--white btn-one"><span className="btn-icon me-2"><i className="far fa-comment-alt"></i></span> Let's talk</a>
-                                <a href="#" className="btn btn--secondary  btn-two"><span className="btn-icon me-2"><i className="fas fa-info-circle"></i></span> Get info</a>
+                                <a   className="btn btn--white btn-one"><span className="btn-icon me-2"><i className="far fa-comment-alt"></i></span> Let's talk</a>
+                                <a   className="btn btn--secondary  btn-two"><span className="btn-icon me-2"><i className="fas fa-info-circle"></i></span> Get info</a>
                             </div>
                         </div>
                     </div>
@@ -639,7 +639,7 @@ const Itservice: React.FC = () => {
                                     </div>
                                     <div className="pricing-table__body">
                                         <div className="pricing-table__footer">
-                                            <a href="#" className="ht-btn ht-btn-md ht-btn--outline">Get started</a>
+                                            <a   className="ht-btn ht-btn-md ht-btn--outline">Get started</a>
                                         </div>
                                         <ul className="pricing-table__list text-left">
                                             <li>03 projects</li>
@@ -667,7 +667,7 @@ const Itservice: React.FC = () => {
                                     </div>
                                     <div className="pricing-table__body">
                                         <div className="pricing-table__footer">
-                                            <a href="#" className="ht-btn  ht-btn-md ">Get started</a>
+                                            <a   className="ht-btn  ht-btn-md ">Get started</a>
                                         </div>
                                         <ul className="pricing-table__list text-left">
                                             <li>Unlimited project</li>
@@ -693,7 +693,7 @@ const Itservice: React.FC = () => {
                                     </div>
                                     <div className="pricing-table__body">
                                         <div className="pricing-table__footer">
-                                            <a href="#" className="ht-btn ht-btn-md ht-btn--outline">Get started</a>
+                                            <a   className="ht-btn ht-btn-md ht-btn--outline">Get started</a>
                                         </div>
                                         <ul className="pricing-table__list text-left">
                                             <li>10 projects</li>
@@ -750,7 +750,7 @@ const Itservice: React.FC = () => {
                                             <p>They play a role in making operations more seamless, bridging the gap between authorities, consumers and businesses. …</p>
                                         </div>
                                         <div className="btn-text mt-15">
-                                            <a href="#">Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
+                                            <a  >Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                     {/* <!-- Post info End --> */}
@@ -959,7 +959,7 @@ const Itservice: React.FC = () => {
                                 <div className="swiper-container brand-logo-slider__container">
                                     <div className="swiper-wrapper brand-logo-slider__one">
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-01.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -969,7 +969,7 @@ const Itservice: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-02.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -979,7 +979,7 @@ const Itservice: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-03.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -989,7 +989,7 @@ const Itservice: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-04.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -999,7 +999,7 @@ const Itservice: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-05.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -1009,7 +1009,7 @@ const Itservice: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-06.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -1019,7 +1019,7 @@ const Itservice: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-07.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -1029,7 +1029,7 @@ const Itservice: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-08.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -1039,7 +1039,7 @@ const Itservice: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-09.webp" className="img-fluid" alt=""/>
                                                 </div>

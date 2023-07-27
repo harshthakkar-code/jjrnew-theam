@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.networks.flat-round .social-link:hover, .ht-social-networks.solid-rounded-icon .social-link {
+  color: #ffffff;
+  background: #223651;
+}
+.ht-box-images.style-10 .image-box-wrap {
+  height: 70%!important;
+}

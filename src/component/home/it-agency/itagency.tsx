@@ -107,7 +107,7 @@ const Itagency: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -127,7 +127,7 @@ const Itagency: React.FC = () => {
                                                     <div className="text">It’s possible to simultaneously manage and transform information from one server to another.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -148,7 +148,7 @@ const Itagency: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -170,7 +170,7 @@ const Itagency: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -192,7 +192,7 @@ const Itagency: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -214,7 +214,7 @@ const Itagency: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -229,8 +229,8 @@ const Itagency: React.FC = () => {
                         </div>
                         <div className="col-lg-12">
                             <div className="feature-list-button-box mt-30 text-center">
-                                <a href="#" className="ht-btn ht-btn-md">Talk to a consultant</a>
-                                <a href="#" className="ht-btn ht-btn-md ht-btn--outline">Contact us now </a>
+                                <a   className="ht-btn ht-btn-md">Talk to a consultant</a>
+                                <a   className="ht-btn ht-btn-md ht-btn--outline">Contact us now </a>
                             </div>
                         </div>
                     </div>
@@ -304,7 +304,7 @@ const Itagency: React.FC = () => {
                                                     </ul>
 
                                                     <div className="tab-button">
-                                                        <a className="btn-text" href="#">
+                                                        <a className="btn-text"  >
                                                             <span className="button-text">Let's get started <i className="fas fa-arrow-right"></i></span>
                                                         </a>
                                                     </div>
@@ -320,7 +320,7 @@ const Itagency: React.FC = () => {
 
                                             <div className="col-lg-4 col-md-6">
                                                 {/* <!-- ht-box-icon Start --> */}
-                                                <a href="#" className="ht-large-box-images style-04">
+                                                <a   className="ht-large-box-images style-04">
                                                     <div className="large-image-box">
                                                         <div className="box-image">
                                                             <div className="default-image">
@@ -342,7 +342,7 @@ const Itagency: React.FC = () => {
                                             </div>
                                             <div className="col-lg-4 col-md-6">
                                                 {/* <!-- ht-box-icon Start --> */}
-                                                <a href="#" className="ht-large-box-images style-04">
+                                                <a   className="ht-large-box-images style-04">
                                                     <div className="large-image-box">
                                                         <div className="box-image">
                                                             <div className="default-image">
@@ -364,7 +364,7 @@ const Itagency: React.FC = () => {
                                             </div>
                                             <div className="col-lg-4 col-md-6">
                                                 {/* <!-- ht-box-icon Start --> */}
-                                                <a href="#" className="ht-large-box-images style-04">
+                                                <a   className="ht-large-box-images style-04">
                                                     <div className="large-image-box">
                                                         <div className="box-image">
                                                             <div className="default-image">
@@ -396,7 +396,7 @@ const Itagency: React.FC = () => {
 
 
                                             <div className="brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-01.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -406,7 +406,7 @@ const Itagency: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-02.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -416,7 +416,7 @@ const Itagency: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-03.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -426,7 +426,7 @@ const Itagency: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-04.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -436,7 +436,7 @@ const Itagency: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-05.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -446,7 +446,7 @@ const Itagency: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-06.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -456,7 +456,7 @@ const Itagency: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-07.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -466,7 +466,7 @@ const Itagency: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-08.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -476,7 +476,7 @@ const Itagency: React.FC = () => {
                                                 </a>
                                             </div>
                                             <div className="brand-logo brand-logo--slider">
-                                                <a href="#">
+                                                <a  >
                                                     <div className="brand-logo__image">
                                                         <img src="assets/images/brand/mitech-client-logo-09.webp" className="img-fluid" alt=""/>
                                                     </div>
@@ -574,8 +574,8 @@ const Itagency: React.FC = () => {
                                 <p className="text mt-30">Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. </p>
 
                                 <div className="sider-title-button-box mt-30">
-                                    <a href="#" className="ht-btn ht-btn-md">Join us now</a>
-                                    <a href="#" className="btn-text font-weight--bold small-mt__20">View all team <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
+                                    <a   className="ht-btn ht-btn-md">Join us now</a>
+                                    <a   className="btn-text font-weight--bold small-mt__20">View all team <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
                                 </div>
 
                             </div>
@@ -589,11 +589,11 @@ const Itagency: React.FC = () => {
                                                 <img className="img-fluid" src="assets/images/team/team-member-01-370x250.webp" alt=""/>
                                                 <div className="social-networks">
                                                     <div className="inner">
-                                                        <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                        <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -612,11 +612,11 @@ const Itagency: React.FC = () => {
                                                 <img className="img-fluid" src="assets/images/team/team-member-07-370x250.webp" alt=""/>
                                                 <div className="social-networks">
                                                     <div className="inner">
-                                                        <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                        <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -635,11 +635,11 @@ const Itagency: React.FC = () => {
                                                 <img className="img-fluid" src="assets/images/team/team-member-04-370x250.webp" alt=""/>
                                                 <div className="social-networks">
                                                     <div className="inner">
-                                                        <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                        <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -658,11 +658,11 @@ const Itagency: React.FC = () => {
                                                 <img className="img-fluid" src="assets/images/team/team-member-02-370x250.webp" alt=""/>
                                                 <div className="social-networks">
                                                     <div className="inner">
-                                                        <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                        <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -698,8 +698,8 @@ const Itagency: React.FC = () => {
                         </div>
                         <div className="col-xl-4 col-lg-5">
                             <div className="cta-button-group--two text-center">
-                                <a href="#" className="btn btn--white btn-one"><span className="btn-icon me-2"><i className="far fa-comment-alt"></i></span> Let's talk</a>
-                                <a href="#" className="btn btn--secondary btn-two "><span className="btn-icon me-2"><i className="fas fa-info-circle"></i></span> Get info</a>
+                                <a   className="btn btn--white btn-one"><span className="btn-icon me-2"><i className="far fa-comment-alt"></i></span> Let's talk</a>
+                                <a   className="btn btn--secondary btn-two "><span className="btn-icon me-2"><i className="fas fa-info-circle"></i></span> Get info</a>
                             </div>
                         </div>
                     </div>
@@ -731,7 +731,7 @@ const Itagency: React.FC = () => {
                                 <div className="swiper-wrapper">
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-01-480x298.webp" alt=""/>
@@ -753,7 +753,7 @@ const Itagency: React.FC = () => {
 
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-02-480x298.webp" alt=""/>
@@ -775,7 +775,7 @@ const Itagency: React.FC = () => {
 
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-03-480x298.webp" alt=""/>
@@ -797,7 +797,7 @@ const Itagency: React.FC = () => {
 
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-04-480x298.webp" alt=""/>
@@ -821,7 +821,7 @@ const Itagency: React.FC = () => {
                                 <div className="swiper-pagination swiper-pagination-project mt_20"></div>
                             </div>
 
-                            <div className="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                            <div className="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a  >Take the challenge!</a></div>
 
                         </div>
                     </div>
@@ -1046,10 +1046,10 @@ const Itagency: React.FC = () => {
                         <div className="col-lg-5 ms-auto">
                             <div className="contact-info-three text-left">
                                 <h6 className="heading font-weight--reguler">Reach out now!</h6>
-                                <h3 className="call-us"><a href="#">(+00) 123 567990</a></h3>
+                                <h3 className="call-us"><a  >(+00) 123 567990</a></h3>
                                 <div className="text">Start the collaboration with us while figuring out the best solution based on your needs.</div>
                                 <div className="location-button mt-20">
-                                    <a href="#" className="location-text-button"><span className="button-icon"></span> <span className="button-text">View on Google map</span></a>
+                                    <a   className="location-text-button"><span className="button-icon"></span> <span className="button-text">View on Google map</span></a>
                                 </div>
                             </div>
                         </div>

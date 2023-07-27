@@ -14,7 +14,7 @@ const Home: React.FC = () => {
                                 <h1 className="font-weight--reguler mb-15">Facilitate All <br/>  Local IT-related Service Providers </h1>
                                 <p>Highly Tailored IT Design, Management & Support Services. </p>
                                 <div className="hero-button  mt-30">
-                                    <a href="#" className="ht-btn ht-btn-md">Get details</a>
+                                    <a   className="ht-btn ht-btn-md">Get details</a>
                                 </div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@ const Home: React.FC = () => {
                                 <div className="swiper-container brand-logo-slider__container">
                                     <div className="swiper-wrapper brand-logo-slider__one">
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-01.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -52,7 +52,7 @@ const Home: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-02.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -62,7 +62,7 @@ const Home: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-03.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -72,7 +72,7 @@ const Home: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-04.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -82,7 +82,7 @@ const Home: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-05.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -92,7 +92,7 @@ const Home: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-06.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -102,7 +102,7 @@ const Home: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-07.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -112,7 +112,7 @@ const Home: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-08.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -122,7 +122,7 @@ const Home: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-09.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -173,7 +173,7 @@ const Home: React.FC = () => {
                                                     <div className="circle-arrow">
                                                         <div className="middle-dot"></div>
                                                         <div className="middle-dot dot-2"></div>
-                                                        <a href="#">
+                                                        <a  >
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
                                                     </div>
@@ -197,7 +197,7 @@ const Home: React.FC = () => {
                                                     <div className="circle-arrow">
                                                         <div className="middle-dot"></div>
                                                         <div className="middle-dot dot-2"></div>
-                                                        <a href="#">
+                                                        <a  >
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
                                                     </div>
@@ -221,7 +221,7 @@ const Home: React.FC = () => {
                                                     <div className="circle-arrow">
                                                         <div className="middle-dot"></div>
                                                         <div className="middle-dot dot-2"></div>
-                                                        <a href="#">
+                                                        <a  >
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
                                                     </div>
@@ -234,7 +234,7 @@ const Home: React.FC = () => {
                                 </div>
                             </div>
 
-                            <div className="section-under-heading text-center section-space--mt_60 section-space--pt_30">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                            <div className="section-under-heading text-center section-space--mt_60 section-space--pt_30">Challenges are just opportunities in disguise. <a  >Take the challenge!</a></div>
 
                         </div>
                     </div>
@@ -255,7 +255,7 @@ const Home: React.FC = () => {
                                     <p className="text mt-20">Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.</p>
 
                                     <div className="sider-title-button-box mt-30">
-                                        <a href="#" className="ht-btn ht-btn-md">Join us now</a>
+                                        <a   className="ht-btn ht-btn-md">Join us now</a>
                                     </div>
 
                                 </div>
@@ -264,7 +264,7 @@ const Home: React.FC = () => {
                             <div className="col-lg-5 offset-lg-2">
                                 <div className="ht-list style-auto-numbered-02">
                                     <div className="list-item">
-                                        <a className="link" href="#">
+                                        <a className="link"  >
                                             <div className="list-header">
                                                 <div className="marker">
                                                     01
@@ -276,7 +276,7 @@ const Home: React.FC = () => {
                                         </a>
                                     </div>
                                     <div className="list-item">
-                                        <a className="link" href="#">
+                                        <a className="link"  >
                                             <div className="list-header">
                                                 <div className="marker">
                                                     02
@@ -288,7 +288,7 @@ const Home: React.FC = () => {
                                         </a>
                                     </div>
                                     <div className="list-item">
-                                        <a className="link" href="#">
+                                        <a className="link"  >
                                             <div className="list-header">
                                                 <div className="marker"> 03</div>
                                                 <div className="title-wrap">
@@ -324,7 +324,7 @@ const Home: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6 mt-30">
                                         {/* <!-- Box large image warap Start --> */}
-                                        <a href="#" className="box-large-image__wrap wow move-up">
+                                        <a   className="box-large-image__wrap wow move-up">
                                             <div className="box-large-image__box">
                                                 <div className="box-large-image__midea">
                                                     <div className="images-midea">
@@ -352,7 +352,7 @@ const Home: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6  mt-30">
                                         {/* <!-- Box large image warap Start --> */}
-                                        <a href="#" className="box-large-image__wrap wow move-up">
+                                        <a   className="box-large-image__wrap wow move-up">
                                             <div className="box-large-image__box">
                                                 <div className="box-large-image__midea">
                                                     <div className="images-midea">
@@ -381,7 +381,7 @@ const Home: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6  mt-30">
                                         {/* <!-- Box large image warap Start --> */}
-                                        <a href="#" className="box-large-image__wrap wow move-up">
+                                        <a   className="box-large-image__wrap wow move-up">
                                             <div className="box-large-image__box">
                                                 <div className="box-large-image__midea">
                                                     <div className="images-midea">
@@ -408,7 +408,7 @@ const Home: React.FC = () => {
                                     </div>
                                 </div>
 
-                                <div className="section-under-heading text-center section-space--mt_40"><a href="#">Learn more about how we work span <i className="ml-1 button-icon fas fa-arrow-right"></i></a></div>
+                                <div className="section-under-heading text-center section-space--mt_40"><a  >Learn more about how we work span <i className="ml-1 button-icon fas fa-arrow-right"></i></a></div>
 
                             </div>
                         </div>
@@ -516,7 +516,7 @@ const Home: React.FC = () => {
                                 <div className="swiper-wrapper">
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-01-480x298.webp" alt=""/>
@@ -538,7 +538,7 @@ const Home: React.FC = () => {
 
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-02-480x298.webp" alt=""/>
@@ -560,7 +560,7 @@ const Home: React.FC = () => {
 
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-03-480x298.webp" alt=""/>
@@ -582,7 +582,7 @@ const Home: React.FC = () => {
 
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-04-480x298.webp" alt=""/>
@@ -606,7 +606,7 @@ const Home: React.FC = () => {
                                 <div className="swiper-pagination swiper-pagination-project mt_20"></div>
                             </div>
 
-                            <div className="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                            <div className="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a  >Take the challenge!</a></div>
 
                         </div>
                     </div>
@@ -712,19 +712,19 @@ const Home: React.FC = () => {
                                 <h3 className="heading">Interesting articles<span className="text-color-primary"> updated daily</span></h3>
                                 <ul className="infotechno-blog-list mt-30">
                                     <li>
-                                        <a href="#">Ideas for High Returns on Investment</a>
+                                        <a  >Ideas for High Returns on Investment</a>
                                     </li>
                                     <li>
-                                        <a href="#">How Technology Made Businesses More Efficient</a>
+                                        <a  >How Technology Made Businesses More Efficient</a>
                                     </li>
                                     <li>
-                                        <a href="#">Data Secure on Transitioning to a New Office</a>
+                                        <a  >Data Secure on Transitioning to a New Office</a>
                                     </li>
                                     <li>
-                                        <a href="#">The Keys to Persuading Customers Nowadays</a>
+                                        <a  >The Keys to Persuading Customers Nowadays</a>
                                     </li>
                                     <li>
-                                        <a href="#">Blockchain Technology Effects on Logistics Sector?</a>
+                                        <a  >Blockchain Technology Effects on Logistics Sector?</a>
                                     </li>
                                 </ul>
 
@@ -753,14 +753,14 @@ const Home: React.FC = () => {
                                     </div>
 
                                     <h5 className="post-title font-weight--bold">
-                                        <a href="#">5 Ways Technology Has Improved Business Today</a>
+                                        <a  >5 Ways Technology Has Improved Business Today</a>
                                     </h5>
 
                                     <div className="post-excerpt mt-15">
                                         <p>They play a role in making operations more seamless, bridging the gap between authorities, consumers and businesses. …</p>
                                     </div>
                                     <div className="btn-text">
-                                        <a href="#">Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
+                                        <a  >Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 {/* <!-- Post info End --> */}
@@ -790,14 +790,14 @@ const Home: React.FC = () => {
                                     </div>
 
                                     <h5 className="post-title font-weight--bold">
-                                        <a href="#">How Wireless Technology is Changing Business</a>
+                                        <a  >How Wireless Technology is Changing Business</a>
                                     </h5>
 
                                     <div className="post-excerpt mt-15">
                                         <p>It is far wiser to do your own installations and ensure that all data flowing through the organization has end-to-end encryption. …</p>
                                     </div>
                                     <div className="btn-text">
-                                        <a href="#">Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
+                                        <a  >Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 {/* <!-- Post info End --> */}
@@ -832,7 +832,7 @@ const Home: React.FC = () => {
                                 <h6 className="heading font-weight--reguler">Reach out now!</h6>
                                 <h2 className="call-us"><a href="tel:190068668">1900 68668</a></h2>
                                 <div className="contact-us-button mt-20">
-                                    <a href="#" className="btn btn--secondary">Contact us</a>
+                                    <a   className="btn btn--secondary">Contact us</a>
                                 </div>
                             </div>
                         </div>
@@ -883,7 +883,7 @@ const Home: React.FC = () => {
                             </ul>
                         </li>
                         <li className="has-children">
-                            <a href="#">Company</a>
+                            <a  >Company</a>
                             <ul className="sub-menu">
                                 <li className="has-children">
                                     <a href="about-us-01.html"><span>About us</span></a>
@@ -891,11 +891,11 @@ const Home: React.FC = () => {
                                         <li><a href="about-us-01.html"><span>About us 01</span></a></li>
                                         <li><a href="about-us-02.html"><span>About us 02</span></a></li>
                                         <li className="has-children">
-                                            <a href="#"><span>Submenu Level Two</span></a>
+                                            <a  ><span>Submenu Level Two</span></a>
                                             <ul className="sub-menu">
-                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
+                                                <li><a  ><span>Submenu Level Three</span></a></li>
+                                                <li><a  ><span>Submenu Level Three</span></a></li>
+                                                <li><a  ><span>Submenu Level Three</span></a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -910,7 +910,7 @@ const Home: React.FC = () => {
                             </ul>
                         </li>
                         <li className="has-children">
-                            <a href="#">IT solutions</a>
+                            <a  >IT solutions</a>
                             <ul className="sub-menu">
                                 <li><a href="it-services.html"><span>IT Services</span></a></li>
                                 <li><a href="managed-it-service.html"><span>Managed IT Services</span></a></li>
@@ -920,10 +920,10 @@ const Home: React.FC = () => {
                             </ul>
                         </li>
                         <li className="has-children">
-                            <a href="#">Elements</a>
+                            <a  >Elements</a>
                             <ul className="sub-menu">
                                 <li className="has-children">
-                                    <a href="#">Element Group 01</a>
+                                    <a  >Element Group 01</a>
                                     <ul className="sub-menu">
                                         <li><a href="element-accordion.html"><span>Accordions & Toggles</span></a></li>
                                         <li><a href="element-box-icon.html"><span>Box Icon</span></a></li>
@@ -936,7 +936,7 @@ const Home: React.FC = () => {
                                     </ul>
                                 </li>
                                 <li className="has-children">
-                                    <a href="#">Element Group 02</a>
+                                    <a  >Element Group 02</a>
                                     <ul className="sub-menu">
                                         <li><a href="element-counters.html"><span>Counters</span></a></li>
                                         <li><a href="element-dividers.html"><span>Dividers</span></a></li>
@@ -949,7 +949,7 @@ const Home: React.FC = () => {
                                     </ul>
                                 </li>
                                 <li className="has-children">
-                                    <a href="#">Element Group 03</a>
+                                    <a  >Element Group 03</a>
                                     <ul className="sub-menu">
                                         <li><a href="element-popup-video.html"><span>Popup Video</span></a></li>
                                         <li><a href="element-pricing-box.html"><span>Pricing Box</span></a></li>
@@ -962,7 +962,7 @@ const Home: React.FC = () => {
                                     </ul>
                                 </li>
                                 <li className="has-children">
-                                    <a href="#">Element Group 04</a>
+                                    <a  >Element Group 04</a>
                                     <ul className="sub-menu">
                                         <li><a href="element-testimonials.html"><span>Testimonials</span></a></li>
                                         <li><a href="element-timeline.html"><span>Timeline</span></a></li>

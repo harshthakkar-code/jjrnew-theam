@@ -15,7 +15,7 @@ const StartUp: React.FC = () => {
                         <h1 className="font-weight--reguler mb-15">Virtual technology in a <span className="text-color-secondary">Refined IT System</span></h1>
                         <p>Set the trends for desktop & server virtualization technology</p>
                         <div className="hero-button mt-30">
-                            <a href="#" className="btn btn--secondary">Free Sample</a>
+                            <a   className="btn btn--secondary">Free Sample</a>
                             <div className="hero-popup-video video-popup">
                                 <a href="https://www.youtube.com/watch?v=vqZuSUtczbU" className="video-link">
                                     <div className="video-content">
@@ -173,7 +173,7 @@ const StartUp: React.FC = () => {
 
                             <div className="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60  small-mt__40">
                                 {/* <!-- ht-box-icon Start --> */}
-                                <a href="#" className="ht-box-images style-02">
+                                <a   className="ht-box-images style-02">
                                     <div className="image-box-wrap">
                                         <div className="box-image">
                                             <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-01-80x83.webp" alt=""/>
@@ -188,7 +188,7 @@ const StartUp: React.FC = () => {
 
                             <div className="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
                                 {/* <!-- ht-box-icon Start --> */}
-                                <a href="#" className="ht-box-images style-02">
+                                <a   className="ht-box-images style-02">
                                     <div className="image-box-wrap">
                                         <div className="box-image">
                                             <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-02-80x83.webp" alt=""/>
@@ -203,7 +203,7 @@ const StartUp: React.FC = () => {
 
                             <div className="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
                                 {/* <!-- ht-box-icon Start --> */}
-                                <a href="#" className="ht-box-images style-02">
+                                <a   className="ht-box-images style-02">
                                     <div className="image-box-wrap">
                                         <div className="box-image">
                                             <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-03-80x83.webp" alt=""/>
@@ -218,7 +218,7 @@ const StartUp: React.FC = () => {
 
                             <div className="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
                                 {/* <!-- ht-box-icon Start --> */}
-                                <a href="#" className="ht-box-images style-02">
+                                <a   className="ht-box-images style-02">
                                     <div className="image-box-wrap">
                                         <div className="box-image">
                                             <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-04-80x83.webp" alt=""/>
@@ -233,7 +233,7 @@ const StartUp: React.FC = () => {
 
                             <div className="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
                                 {/* <!-- ht-box-icon Start --> */}
-                                <a href="#" className="ht-box-images style-02">
+                                <a   className="ht-box-images style-02">
                                     <div className="image-box-wrap">
                                         <div className="box-image">
                                             <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-05-80x83.webp" alt=""/>
@@ -248,7 +248,7 @@ const StartUp: React.FC = () => {
 
                             <div className="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
                                 {/* <!-- ht-box-icon Start --> */}
-                                <a href="#" className="ht-box-images style-02">
+                                <a   className="ht-box-images style-02">
                                     <div className="image-box-wrap">
                                         <div className="box-image">
                                             <img className="img-fulid" src="assets/images/icons/mitech-processing-service-image-06-80x83.webp" alt=""/>
@@ -262,7 +262,7 @@ const StartUp: React.FC = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="section-under-heading text-center section-space--mt_60">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                    <div className="section-under-heading text-center section-space--mt_60">Challenges are just opportunities in disguise. <a  >Take the challenge!</a></div>
                 </div>
             </div>
         </div>
@@ -327,7 +327,7 @@ const StartUp: React.FC = () => {
                 <div className="col-lg-12">
                     <div className="computing-info-box text-center">
                         <h2>IT Security & Computing</h2>
-                        <div className="section-under-heading text-center mt-30">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                        <div className="section-under-heading text-center mt-30">Challenges are just opportunities in disguise. <a  >Take the challenge!</a></div>
                     </div>
                 </div>
             </div>
@@ -358,7 +358,7 @@ const StartUp: React.FC = () => {
 
                         <div className="col-lg-3 col-md-6 mt-30">
                             {/* <!-- Box large image warap Start --> */}
-                            <a href="#" className="box-large-image__two">
+                            <a   className="box-large-image__two">
                                 <div className="box-large-image__two__box">
                                     <div className="box-large-image__midea">
                                         <div className="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-01.webp"></div>
@@ -380,7 +380,7 @@ const StartUp: React.FC = () => {
 
                         <div className="col-lg-6 col-md-6  mt-30">
                             {/* <!-- Box large image warap Start --> */}
-                            <a href="#" className="box-large-image__two">
+                            <a   className="box-large-image__two">
                                 <div className="box-large-image__two__box">
                                     <div className="box-large-image__midea">
                                         <div className="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-02.webp"></div>
@@ -402,7 +402,7 @@ const StartUp: React.FC = () => {
 
                         <div className="col-lg-3 col-md-6 mt-30">
                             {/* <!-- Box large image warap Start --> */}
-                            <a href="#" className="box-large-image__two">
+                            <a   className="box-large-image__two">
                                 <div className="box-large-image__two__box">
                                     <div className="box-large-image__midea">
                                         <div className="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-03.webp"></div>
@@ -424,7 +424,7 @@ const StartUp: React.FC = () => {
 
                         <div className="col-lg-4 col-md-6 mt-30">
                             {/* <!-- Box large image warap Start --> */}
-                            <a href="#" className="box-large-image__two">
+                            <a   className="box-large-image__two">
                                 <div className="box-large-image__two__box">
                                     <div className="box-large-image__midea">
                                         <div className="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-04.webp"></div>
@@ -446,7 +446,7 @@ const StartUp: React.FC = () => {
 
                         <div className="col-lg-4 col-md-6 mt-30">
                             {/* <!-- Box large image warap Start --> */}
-                            <a href="#" className="box-large-image__two">
+                            <a   className="box-large-image__two">
                                 <div className="box-large-image__two__box">
                                     <div className="box-large-image__midea">
                                         <div className="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/mitech-home-infotechno-box-large-image_02-330x330.webp"></div>
@@ -468,7 +468,7 @@ const StartUp: React.FC = () => {
 
                         <div className="col-lg-4 col-md-6 mt-30">
                             {/* <!-- Box large image warap Start --> */}
-                            <a href="#" className="box-large-image__two">
+                            <a   className="box-large-image__two">
                                 <div className="box-large-image__two__box">
                                     <div className="box-large-image__midea">
                                         <div className="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/mitech-home-infotechno-box-large-image_04-330x330.webp"></div>
@@ -491,8 +491,8 @@ const StartUp: React.FC = () => {
                     </div>
                     <div className="col-lg-12">
                         <div className="feature-list-button-box mt-40 text-center">
-                            <a href="#" className="ht-btn ht-btn-md">Learn more</a>
-                            <a href="#" className="ht-btn ht-btn-md ht-btn--outline">Contact us</a>
+                            <a   className="ht-btn ht-btn-md">Learn more</a>
+                            <a   className="ht-btn ht-btn-md ht-btn--outline">Contact us</a>
                         </div>
                     </div>
 
@@ -642,7 +642,7 @@ const StartUp: React.FC = () => {
                         <div className="swiper-container brand-logo-slider__container">
                             <div className="swiper-wrapper brand-logo-slider__one">
                                 <div className="swiper-slide brand-logo brand-logo--slider">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-01.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -652,7 +652,7 @@ const StartUp: React.FC = () => {
                                     </a>
                                 </div>
                                 <div className="swiper-slide brand-logo brand-logo--slider">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-02.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -662,7 +662,7 @@ const StartUp: React.FC = () => {
                                     </a>
                                 </div>
                                 <div className="swiper-slide brand-logo brand-logo--slider">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-03.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -672,7 +672,7 @@ const StartUp: React.FC = () => {
                                     </a>
                                 </div>
                                 <div className="swiper-slide brand-logo brand-logo--slider">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-04.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -682,7 +682,7 @@ const StartUp: React.FC = () => {
                                     </a>
                                 </div>
                                 <div className="swiper-slide brand-logo brand-logo--slider">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-05.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -692,7 +692,7 @@ const StartUp: React.FC = () => {
                                     </a>
                                 </div>
                                 <div className="swiper-slide brand-logo brand-logo--slider">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-06.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -702,7 +702,7 @@ const StartUp: React.FC = () => {
                                     </a>
                                 </div>
                                 <div className="swiper-slide brand-logo brand-logo--slider">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-07.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -712,7 +712,7 @@ const StartUp: React.FC = () => {
                                     </a>
                                 </div>
                                 <div className="swiper-slide brand-logo brand-logo--slider">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-08.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -722,7 +722,7 @@ const StartUp: React.FC = () => {
                                     </a>
                                 </div>
                                 <div className="swiper-slide brand-logo brand-logo--slider">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-09.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -761,7 +761,7 @@ const StartUp: React.FC = () => {
                         <h6 className="heading font-weight--reguler">Reach out now!</h6>
                         <h2 className="call-us"><a href="tel:190068668">+91 72838 87707</a></h2>
                         <div className="contact-us-button mt-20">
-                            <a href="#" className="btn btn--secondary">Contact us</a>
+                            <a   className="btn btn--secondary">Contact us</a>
                         </div>
                     </div>
                 </div>

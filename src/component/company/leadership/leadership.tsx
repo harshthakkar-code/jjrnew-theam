@@ -41,11 +41,11 @@ const Leadership: React.FC = () => {
                                         <img className="img-fluid" src="assets/images/team/team-member-07-370x455.webp" alt=""/>
                                         <div className="social-networks">
                                             <div className="inner">
-                                                <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                 </a>
                                             </div>
                                         </div>
@@ -64,11 +64,11 @@ const Leadership: React.FC = () => {
                                         <img className="img-fluid" src="assets/images/team/team-member-01-370x455.webp" alt=""/>
                                         <div className="social-networks">
                                             <div className="inner">
-                                                <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                 </a>
                                             </div>
                                         </div>
@@ -87,11 +87,11 @@ const Leadership: React.FC = () => {
                                         <img className="img-fluid" src="assets/images/team/team-member-06-370x455.webp" alt=""/>
                                         <div className="social-networks">
                                             <div className="inner">
-                                                <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                 </a>
                                             </div>
                                         </div>
@@ -113,11 +113,11 @@ const Leadership: React.FC = () => {
                                         <img className="img-fluid" src="assets/images/team/team-member-04-370x452.webp" alt=""/>
                                         <div className="social-networks">
                                             <div className="inner">
-                                                <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                 </a>
                                             </div>
                                         </div>
@@ -137,11 +137,11 @@ const Leadership: React.FC = () => {
                                         <img className="img-fluid" src="assets/images/team/team-member-05-370x452.webp" alt=""/>
                                         <div className="social-networks">
                                             <div className="inner">
-                                                <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                 </a>
                                             </div>
                                         </div>
@@ -161,11 +161,11 @@ const Leadership: React.FC = () => {
                                         <img className="img-fluid" src="assets/images/team/team-member-03-370x452.webp" alt=""/>
                                         <div className="social-networks">
                                             <div className="inner">
-                                                <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                 </a>
                                             </div>
                                         </div>
@@ -185,11 +185,11 @@ const Leadership: React.FC = () => {
                                         <img className="img-fluid" src="assets/images/team/team-member-02-370x452.webp" alt=""/>
                                         <div className="social-networks">
                                             <div className="inner">
-                                                <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                 </a>
-                                                <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                 </a>
                                             </div>
                                         </div>
@@ -214,37 +214,37 @@ const Leadership: React.FC = () => {
                         <div className="col-lg-3 col-md-6 team_member-list mb-30">
                             <h6 className="team__title mb-20">DEVELOPER</h6>
                             <ul className="footer-widget__list">
-                                <li><a href="#" className="hover-style-default">Gene Moreno</a></li>
-                                <li><a href="#" className="hover-style-default">Carrie Greer</a></li>
-                                <li><a href="#" className="hover-style-default">Brent Newman</a></li>
-                                <li><a href="#" className="hover-style-default">Craig Stevenson</a></li>
+                                <li><a   className="hover-style-default">Gene Moreno</a></li>
+                                <li><a   className="hover-style-default">Carrie Greer</a></li>
+                                <li><a   className="hover-style-default">Brent Newman</a></li>
+                                <li><a   className="hover-style-default">Craig Stevenson</a></li>
                             </ul>
                         </div>
                         <div className="col-lg-3 col-md-6 team_member-list mb-30">
                             <h6 className="team__title mb-20">Engineer</h6>
                             <ul className="footer-widget__list">
-                                <li><a href="#" className="hover-style-default">Albert Webster</a></li>
-                                <li><a href="#" className="hover-style-default">Harry Castillo</a></li>
-                                <li><a href="#" className="hover-style-default">Walter Reid</a></li>
-                                <li><a href="#" className="hover-style-default">Gordon Baldwin</a></li>
+                                <li><a   className="hover-style-default">Albert Webster</a></li>
+                                <li><a   className="hover-style-default">Harry Castillo</a></li>
+                                <li><a   className="hover-style-default">Walter Reid</a></li>
+                                <li><a   className="hover-style-default">Gordon Baldwin</a></li>
                             </ul>
                         </div>
                         <div className="col-lg-3 col-md-6 team_member-list mb-30">
                             <h6 className="team__title mb-20">Staff</h6>
                             <ul className="footer-widget__list">
-                                <li><a href="#" className="hover-style-default">Gene Moreno</a></li>
-                                <li><a href="#" className="hover-style-default">Carrie Greer</a></li>
-                                <li><a href="#" className="hover-style-default">Brent Newman</a></li>
-                                <li><a href="#" className="hover-style-default">Craig Stevenson</a></li>
+                                <li><a   className="hover-style-default">Gene Moreno</a></li>
+                                <li><a   className="hover-style-default">Carrie Greer</a></li>
+                                <li><a   className="hover-style-default">Brent Newman</a></li>
+                                <li><a   className="hover-style-default">Craig Stevenson</a></li>
                             </ul>
                         </div>
                         <div className="col-lg-3 col-md-6 team_member-list mb-30">
                             <h6 className="team__title mb-20">Design/Marketing</h6>
                             <ul className="footer-widget__list">
-                                <li><a href="#" className="hover-style-default">Charlotte Shaw</a></li>
-                                <li><a href="#" className="hover-style-default">Kate Wong</a></li>
-                                <li><a href="#" className="hover-style-default">Frederick Huff</a></li>
-                                <li><a href="#" className="hover-style-default">Ora Johnson</a></li>
+                                <li><a   className="hover-style-default">Charlotte Shaw</a></li>
+                                <li><a   className="hover-style-default">Kate Wong</a></li>
+                                <li><a   className="hover-style-default">Frederick Huff</a></li>
+                                <li><a   className="hover-style-default">Ora Johnson</a></li>
                             </ul>
                         </div>
                     </div>
@@ -274,7 +274,7 @@ const Leadership: React.FC = () => {
                                 <h6 className="heading font-weight--reguler">Reach out now!</h6>
                                 <h2 className="call-us"><a href="tel:190068668">1900 68668</a></h2>
                                 <div className="contact-us-button mt-20">
-                                    <a href="#" className="btn btn--secondary">Contact us</a>
+                                    <a   className="btn btn--secondary">Contact us</a>
                                 </div>
                             </div>
                         </div>

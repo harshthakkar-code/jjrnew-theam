@@ -85,7 +85,7 @@ const Whychooseus: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6 mt-30">
                                         {/* <!-- Box large image warap Start --> */}
-                                        <a href="#" className="box-large-image__wrap wow move-up">
+                                        <a   className="box-large-image__wrap wow move-up">
                                             <div className="box-large-image__box">
                                                 <div className="box-large-image__midea">
                                                     <div className="images-midea">
@@ -113,7 +113,7 @@ const Whychooseus: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6  mt-30">
                                         {/* <!-- Box large image warap Start --> */}
-                                        <a href="#" className="box-large-image__wrap wow move-up">
+                                        <a   className="box-large-image__wrap wow move-up">
                                             <div className="box-large-image__box">
                                                 <div className="box-large-image__midea">
                                                     <div className="images-midea">
@@ -141,7 +141,7 @@ const Whychooseus: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6  mt-30">
                                         {/* <!-- Box large image warap Start --> */}
-                                        <a href="#" className="box-large-image__wrap wow move-up">
+                                        <a   className="box-large-image__wrap wow move-up">
                                             <div className="box-large-image__box">
                                                 <div className="box-large-image__midea">
                                                     <div className="images-midea">
@@ -168,7 +168,7 @@ const Whychooseus: React.FC = () => {
                                     </div>
                                 </div>
 
-                                <div className="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                                <div className="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a  >Take the challenge!</a></div>
 
                             </div>
                         </div>

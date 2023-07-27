@@ -14,7 +14,7 @@ const Machinelerning: React.FC = () => {
                                 <h1 className="font-weight--reguler text-white mb-15"><span className="text-color-secondary">Machine Learning</span> <br/> Consulting for Trading </h1>
                                 <p>Subliminal AI is a Machine Learning Consulting firm experienced in applying AI and Machine Learning to business problems.</p>
                                 <div className="hero-button mt-30">
-                                    <a href="#" className="btn btn--secondary">Free Sample</a>
+                                    <a   className="btn btn--secondary">Free Sample</a>
                                     <div className="hero-popup-video video-popup">
                                         <a href="https://www.youtube.com/watch?v=vqZuSUtczbU" className="video-link">
                                             <div className="video-content">
@@ -37,7 +37,7 @@ const Machinelerning: React.FC = () => {
                             {/* <!-- hero brand logo --> */}
                             <div className="hero-brand-wrap">
                                 <div className="brand-logo">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-07.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -47,7 +47,7 @@ const Machinelerning: React.FC = () => {
                                     </a>
                                 </div>
                                 <div className="brand-logo">
-                                    <a href="#">
+                                    <a  >
                                         <div className="brand-logo__image">
                                             <img src="assets/images/brand/mitech-client-logo-06.webp" className="img-fluid" alt=""/>
                                         </div>
@@ -148,7 +148,7 @@ const Machinelerning: React.FC = () => {
                                         investment sooner, put AI in the hands of those closest to your business,
                                         and reduce friction to adoption across your organization.</p>
                                     <div className="button-box mt-30">
-                                        <a href="#" className="ht-btn ht-btn-md">Talk to a consultant</a>
+                                        <a   className="ht-btn ht-btn-md">Talk to a consultant</a>
                                     </div>
                                 </div>
                             </div>
@@ -193,7 +193,7 @@ const Machinelerning: React.FC = () => {
                                                     <div className="text">Turn our AI research into your organization’s value with tools like Cloud AutoML, Cloud Natural Language…
                                                     </div>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -222,7 +222,7 @@ const Machinelerning: React.FC = () => {
                                                     <div className="text">Our industry-specific AI solutions meet scalable vertical needs; cross-industry solutions like Contact Center AI…
                                                     </div>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -251,7 +251,7 @@ const Machinelerning: React.FC = () => {
                                                     <div className="text">From Explainable AI to our Inclusive ML Guide, our AI principles and responsible AI practices provide a foundation for…
                                                     </div>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -282,7 +282,7 @@ const Machinelerning: React.FC = () => {
                             </div>
                             <div className="contact-info-two mt-40 text-left">
                                 <div className="contact-us-button mt-20">
-                                    <a href="#" className="btn btn--secondary">Contact us</a>
+                                    <a   className="btn btn--secondary">Contact us</a>
                                 </div>
                             </div>
                         </div>
@@ -302,8 +302,8 @@ const Machinelerning: React.FC = () => {
                                 <p className="text mt-30">Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. </p>
 
                                 <div className="sider-title-button-box mt-30">
-                                    <a href="#" className="ht-btn ht-btn-md">Join us now</a>
-                                    <a href="#" className="btn-text font-weight--bold small-mt__20">View all team <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
+                                    <a   className="ht-btn ht-btn-md">Join us now</a>
+                                    <a   className="btn-text font-weight--bold small-mt__20">View all team <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
                                 </div>
 
                             </div>
@@ -317,11 +317,11 @@ const Machinelerning: React.FC = () => {
                                                 <img className="img-fluid" src="assets/images/team/team-member-01-370x250.webp" alt=""/>
                                                 <div className="social-networks">
                                                     <div className="inner">
-                                                        <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                        <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -340,11 +340,11 @@ const Machinelerning: React.FC = () => {
                                                 <img className="img-fluid" src="assets/images/team/team-member-07-370x250.webp" alt=""/>
                                                 <div className="social-networks">
                                                     <div className="inner">
-                                                        <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                        <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -363,11 +363,11 @@ const Machinelerning: React.FC = () => {
                                                 <img className="img-fluid" src="assets/images/team/team-member-04-370x250.webp" alt=""/>
                                                 <div className="social-networks">
                                                     <div className="inner">
-                                                        <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                        <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -386,11 +386,11 @@ const Machinelerning: React.FC = () => {
                                                 <img className="img-fluid" src="assets/images/team/team-member-02-370x250.webp" alt=""/>
                                                 <div className="social-networks">
                                                     <div className="inner">
-                                                        <a target="_blank" href="#" className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
+                                                        <a target="_blank"   className=" hint--bounce  hint--top hint--theme-two" aria-label="Facebook"><i className="fab fa-facebook"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Twitter"><i className="fab fa-twitter"></i>
                                                         </a>
-                                                        <a target="_blank" href="#" className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
+                                                        <a target="_blank"   className=" hint--bounce hint--top hint--theme-two" aria-label="Instagram"><i className="fab fa-instagram"></i>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -431,7 +431,7 @@ const Machinelerning: React.FC = () => {
                                 <div className="swiper-wrapper">
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-01-480x298.webp" alt=""/>
@@ -453,7 +453,7 @@ const Machinelerning: React.FC = () => {
 
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-02-480x298.webp" alt=""/>
@@ -475,7 +475,7 @@ const Machinelerning: React.FC = () => {
 
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-03-480x298.webp" alt=""/>
@@ -497,7 +497,7 @@ const Machinelerning: React.FC = () => {
 
                                     <div className="swiper-slide">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
+                                        <a   className="projects-wrap style-01 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <img className="img-fluid" src="assets/images/projects/case-study-04-480x298.webp" alt=""/>
@@ -521,7 +521,7 @@ const Machinelerning: React.FC = () => {
                                 <div className="swiper-pagination swiper-pagination-project mt_20"></div>
                             </div>
 
-                            <div className="section-under-heading text-center section-space--mt_40">Stop wasting time and money on technology <a href="#">Let’s get started</a></div>
+                            <div className="section-under-heading text-center section-space--mt_40">Stop wasting time and money on technology <a  >Let’s get started</a></div>
 
                         </div>
                     </div>
@@ -694,7 +694,7 @@ const Machinelerning: React.FC = () => {
                                 <div className="swiper-container brand-logo-slider__container">
                                     <div className="swiper-wrapper brand-logo-slider__one">
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-01.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -704,7 +704,7 @@ const Machinelerning: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-02.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -714,7 +714,7 @@ const Machinelerning: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-03.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -724,7 +724,7 @@ const Machinelerning: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-04.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -734,7 +734,7 @@ const Machinelerning: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-05.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -744,7 +744,7 @@ const Machinelerning: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-06.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -754,7 +754,7 @@ const Machinelerning: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-07.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -764,7 +764,7 @@ const Machinelerning: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-08.webp" className="img-fluid" alt=""/>
                                                 </div>
@@ -774,7 +774,7 @@ const Machinelerning: React.FC = () => {
                                             </a>
                                         </div>
                                         <div className="swiper-slide brand-logo brand-logo--slider">
-                                            <a href="#">
+                                            <a  >
                                                 <div className="brand-logo__image">
                                                     <img src="assets/images/brand/mitech-client-logo-09.webp" className="img-fluid" alt=""/>
                                                 </div>

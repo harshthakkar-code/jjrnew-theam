@@ -56,7 +56,7 @@ const Careers: React.FC = () => {
 
                                             <div className="col-md-3">
                                                 <div className="job-button text-md-center">
-                                                    <a className="ht-btn ht-btn-md ht-btn--solid" href="#">
+                                                    <a className="ht-btn ht-btn-md ht-btn--solid"  >
                                                         <span className="button-text">Get started </span>
                                                     </a>
                                                 </div>
@@ -78,7 +78,7 @@ const Careers: React.FC = () => {
 
                                             <div className="col-md-3">
                                                 <div className="job-button text-md-center">
-                                                    <a className="ht-btn ht-btn-md ht-btn--solid" href="#">
+                                                    <a className="ht-btn ht-btn-md ht-btn--solid"  >
                                                         <span className="button-text">Get started </span>
                                                     </a>
                                                 </div>
@@ -100,7 +100,7 @@ const Careers: React.FC = () => {
 
                                             <div className="col-md-3">
                                                 <div className="job-button text-md-center">
-                                                    <a className="ht-btn ht-btn-md ht-btn--solid" href="#">
+                                                    <a className="ht-btn ht-btn-md ht-btn--solid"  >
                                                         <span className="button-text">Get started </span>
                                                     </a>
                                                 </div>
@@ -122,7 +122,7 @@ const Careers: React.FC = () => {
 
                                             <div className="col-md-3">
                                                 <div className="job-button text-md-center">
-                                                    <a className="ht-btn ht-btn-md ht-btn--solid" href="#">
+                                                    <a className="ht-btn ht-btn-md ht-btn--solid"  >
                                                         <span className="button-text">Get started </span>
                                                     </a>
                                                 </div>
@@ -145,7 +145,7 @@ const Careers: React.FC = () => {
                             <div className="section-title-wrap text-center">
                                 <h3 className="section-title mb-15 wow move-up">Pay a visit & have some coffee!</h3>
                                 <div className="contact-button section-space--mt_30 wow move-up">
-                                    <a href="#" className="hover-style-link">View all team <i className="fas fa-arrow-right"></i></a>
+                                    <a   className="hover-style-link">View all team <i className="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -235,7 +235,7 @@ const Careers: React.FC = () => {
                                 <h6 className="heading font-weight--reguler">Reach out now!</h6>
                                 <h2 className="call-us"><a href="tel:190068668">1900 68668</a></h2>
                                 <div className="contact-us-button mt-20">
-                                    <a href="#" className="btn btn--secondary">Contact us</a>
+                                    <a   className="btn btn--secondary">Contact us</a>
                                 </div>
                             </div>
                         </div>

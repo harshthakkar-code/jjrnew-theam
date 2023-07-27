@@ -67,7 +67,7 @@ const Itservices: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -89,7 +89,7 @@ const Itservices: React.FC = () => {
                                                     <div className="text">It’s possible to simultaneously manage and transform information from one server to another.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -111,7 +111,7 @@ const Itservices: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -133,7 +133,7 @@ const Itservices: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -155,7 +155,7 @@ const Itservices: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -177,7 +177,7 @@ const Itservices: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -199,7 +199,7 @@ const Itservices: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -221,7 +221,7 @@ const Itservices: React.FC = () => {
                                                     <div className="text">We provide the most responsive and functional IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div className="feature-btn">
-                                                        <a href="#">
+                                                        <a  >
                                                             <span className="button-text">Discover now</span>
                                                             <i className="fas fa-arrow-right"></i>
                                                         </a>
@@ -232,7 +232,7 @@ const Itservices: React.FC = () => {
                                         {/* <!-- ht-box-icon End --> */}
                                     </div>
                                     <div className="col-12">
-                                        <div className="section-under-heading text-center section-space--mt_60">Can’t find your industry? <a href="#"> Contact us now!</a></div>
+                                        <div className="section-under-heading text-center section-space--mt_60">Can’t find your industry? <a  > Contact us now!</a></div>
                                     </div>
                                 </div>
                             </div>

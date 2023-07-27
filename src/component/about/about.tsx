@@ -108,7 +108,7 @@ const About: React.FC = () => {
                             <div className="row row--35">
                                 <div className="col-lg-4 col-md-6 mt-30">
                                     {/* <!-- Box large image warap Start --> */}
-                                    <a href="#" className="box-large-image__wrap wow move-up">
+                                    <a   className="box-large-image__wrap wow move-up">
                                         <div className="box-large-image__box">
                                             <div className="box-large-image__midea">
                                                 <div className="images-midea">
@@ -136,7 +136,7 @@ const About: React.FC = () => {
 
                                 <div className="col-lg-4 col-md-6  mt-30">
                                     {/* <!-- Box large image warap Start --> */}
-                                    <a href="#" className="box-large-image__wrap wow move-up">
+                                    <a   className="box-large-image__wrap wow move-up">
                                         <div className="box-large-image__box">
                                             <div className="box-large-image__midea">
                                                 <div className="images-midea">
@@ -164,7 +164,7 @@ const About: React.FC = () => {
 
                                 <div className="col-lg-4 col-md-6  mt-30">
                                     {/* <!-- Box large image warap Start --> */}
-                                    <a href="#" className="box-large-image__wrap wow move-up">
+                                    <a   className="box-large-image__wrap wow move-up">
                                         <div className="box-large-image__box">
                                             <div className="box-large-image__midea">
                                                 <div className="images-midea">
@@ -191,7 +191,7 @@ const About: React.FC = () => {
                                 </div>
                             </div>
 
-                            <div className="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                            <div className="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a  >Take the challenge!</a></div>
 
                         </div>
                     </div>
@@ -207,13 +207,13 @@ const About: React.FC = () => {
                             <div className="section-title-wrap text-left">
                                 <h3 className="section-title mb-15 wow move-up">Bright future that we <span className="text-color-primary"> cherish. </span> We thrive for <span className="text-color-primary">  success.</span></h3>
                                 <div className="contact-button section-space--mt_30 wow move-up">
-                                    <a href="#" className="hover-style-link">View all team <i className="fas fa-arrow-right"></i></a>
+                                    <a   className="hover-style-link">View all team <i className="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-5 wow move-up animate">
                             <div className="about-button mt-30">
-                                <a href="#" className="ht-btn ht-btn-md">Join us</a>
+                                <a   className="ht-btn ht-btn-md">Join us</a>
                             </div>
                         </div>
                     </div>
@@ -463,7 +463,7 @@ const About: React.FC = () => {
                                 <h3 className="call-us"><a href="tel:123 567990">(+91) 72838 87707</a></h3>
                                 <div className="text">Start the collaboration with us while figuring out the best solution based on your needs.</div>
                                 <div className="location-button mt-20">
-                                    <a href="#" className="location-text-button"><span className="button-icon"></span> <span className="button-text">View on Google map</span></a>
+                                    <a   className="location-text-button"><span className="button-icon"></span> <span className="button-text">View on Google map</span></a>
                                 </div>
                             </div>
                         </div>

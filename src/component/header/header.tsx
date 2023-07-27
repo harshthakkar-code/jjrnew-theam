@@ -40,7 +40,7 @@ const Header: React.FC = () => {
 
                                                     <ul>
                                                         <li className="has-children has-children--multilevel-submenu">
-                                                            <a href="#"><span>Home</span></a>
+                                                            <a  ><span>Home</span></a>
                                                             <ul className="submenu">
                                                                 <li onClick={()=> Navigate('/soft&tech')}><a><span>Software & Techology</span></a></li>
                                                                 <li onClick={()=> Navigate('/startup')}><a><span>Startup Business</span></a></li>
@@ -54,7 +54,7 @@ const Header: React.FC = () => {
                                                             </ul>
                                                         </li>
                                                         <li className="has-children has-children--multilevel-submenu">
-                                                            <a href="#"><span>Company</span></a>
+                                                            <a  ><span>Company</span></a>
                                                             <ul className="submenu">
                                                                 <li className="has-children">
                                                                     <a href="about-us-01.html"><span>About us</span></a>
@@ -62,11 +62,11 @@ const Header: React.FC = () => {
                                                                         <li><a href="about-us-01.html"><span>About us 01</span></a></li>
                                                                         <li  onClick={()=> Navigate('/about')}><a ><span>About us 02</span></a></li>
                                                                         <li className="has-children">
-                                                                            <a href="#"><span>Submenu Level Two</span></a>
+                                                                            <a  ><span>Submenu Level Two</span></a>
                                                                             <ul className="submenu">
-                                                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
+                                                                                <li><a  ><span>Submenu Level Three</span></a></li>
+                                                                                <li><a  ><span>Submenu Level Three</span></a></li>
+                                                                                <li><a  ><span>Submenu Level Three</span></a></li>
                                                                             </ul>
                                                                         </li>
                                                                     </ul>
@@ -82,7 +82,7 @@ const Header: React.FC = () => {
                                                             </ul>
                                                         </li>
                                                         <li className="has-children has-children--multilevel-submenu">
-                                                            <a href="#"><span>IT solutions</span></a>
+                                                            <a  ><span>IT solutions</span></a>
                                                             <ul className="submenu">
                                                                 <li onClick={()=> Navigate('/itservice')}><a><span>IT Services</span></a></li>
                                                                 <li onClick={()=> Navigate('/manageitservice')}><a><span>Managed IT Services</span></a></li>
@@ -91,10 +91,10 @@ const Header: React.FC = () => {
                                                                 {/* <li><a href="it-services-details.html"><span>IT Services Details</span></a></li> */}
                                                             </ul>
                                                         </li>
-                                                        <li className="has-children">
-                                                            <a href="#"><span>Elements</span></a>
+                                                        {/* <li className="has-children">
+                                                            <a  ><span>Elements</span></a>
                                                             {/* <!-- mega menu --> */}
-                                                            <ul className="megamenu megamenu--mega">
+                                                            {/* <ul className="megamenu megamenu--mega">
                                                                 <li>
                                                                     <h2 className="page-list-title">ELEMENT GROUP 01</h2>
                                                                     <ul>
@@ -143,35 +143,8 @@ const Header: React.FC = () => {
                                                                         <li><a href="element-typed-text.html"><span>Typed Text</span></a></li>
                                                                     </ul>
                                                                 </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li className="has-children has-children--multilevel-submenu">
-                                                            <a href="#"><span>Case Studies</span></a>
-                                                            {/* <!-- multilevel submenu --> */}
-                                                            <ul className="submenu">
-                                                                <li><a href="case-studies.html"><span>Case Studies 01</span></a></li>
-                                                                <li><a href="case-studies-02.html"><span>Case Studies 02</span></a></li>
-                                                                <li><a href="single-smart-vision.html"><span>Single Layout</span></a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li className="has-children has-children--multilevel-submenu">
-                                                            <a href="blog-list-large-image.html"><span>Blog</span></a>
-                                                            {/* <!-- multilevel submenu --> */}
-                                                            <ul className="submenu">
-                                                                <li><a href="blog-list-large-image.html"><span>List Large Image</span></a></li>
-                                                                <li><a href="blog-list-left-large-image.html"><span>Left Large Image</span></a></li>
-                                                                <li><a href="blog-grid-classNameic.html"><span>Grid classNameic</span></a></li>
-                                                                <li><a href="blog-grid-masonry.html"><span>Grid Masonry</span></a></li>
-                                                                <li className="has-children">
-                                                                    <a href="blog-post-layout-one.html"><span>Single Layouts</span></a>
-                                                                    <ul className="submenu">
-                                                                        <li><a href="blog-post-layout-one.html"><span>Left Sidebar</span></a></li>
-                                                                        <li><a href="blog-post-right-sidebar.html"><span>Right Sidebar</span></a></li>
-                                                                        <li><a href="blog-post-no-sidebar.html"><span>No Sidebar</span></a></li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
+                                                            </ul> */}
+                                                
                                                     </ul>
                                                 </nav>
                                             </div>
@@ -189,19 +162,19 @@ const Header: React.FC = () => {
                                     {/* <div className="language-menu">
                                         <ul>
                                             <li>
-                                                <a href="#" className="">
+                                                <a   className="">
                                                     <img className="ls-flag" src="assets/images/flags/en.webp" alt="en" title="English" />
                                                     <span className="wpml-ls-native">English</span>
                                                 </a>
 
                                                 <ul className="ls-sub-menu">
                                                     <li className="">
-                                                        <a href="#" className="">
+                                                        <a   className="">
                                                             <img className="ls-flag" src="assets/images/flags/fr.webp" alt="en" title="Français" /><span className="wpml-ls-native">Français</span>
                                                         </a>
                                                     </li>
                                                     <li className="">
-                                                        <a href="#" className="">
+                                                        <a   className="">
                                                             <img className="wpml-ls-flag" src="assets/images/flags/de.webp" alt="de" title="Deutsch" /><span className="wpml-ls-native">Deutsch</span>
                                                         </a>
                                                     </li>
@@ -214,14 +187,14 @@ const Header: React.FC = () => {
                                     </div> */}
 
                                     {/* <!-- header-search-form --> */}
-                                    <div className="header-search-form default-search">
+                                    {/* <div className="header-search-form default-search">
                                         <form action="#" className="search-form-top">
                                             <input className="search-field" type="text" placeholder="Search…" />
                                             <button className="search-submit">
                                                 <i className="search-btn-icon fa fa-search"></i>
                                             </button>
                                         </form>
-                                    </div>
+                                    </div> */}
                                 </div>
 
                                 {/* <!-- mobile menu --> */}
@@ -282,7 +255,7 @@ const Header: React.FC = () => {
                             </ul>
                         </li>
                         <li className="has-children">
-                            <a href="#">Company</a>
+                            <a  >Company</a>
                             <ul className="sub-menu">
                                 <li className="has-children">
                                     <a href="about-us-01.html"><span>About us</span></a>
@@ -291,11 +264,11 @@ const Header: React.FC = () => {
                                         	
                                         <li onClick={()=> Navigate('/about')}><a><span>About us 02</span></a></li>
                                         <li className="has-children">
-                                            <a href="#"><span>Submenu Level Two</span></a>
+                                            <a  ><span>Submenu Level Two</span></a>
                                             <ul className="sub-menu">
-                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
-                                                <li><a href="#"><span>Submenu Level Three</span></a></li>
+                                                <li><a  ><span>Submenu Level Three</span></a></li>
+                                                <li><a  ><span>Submenu Level Three</span></a></li>
+                                                <li><a  ><span>Submenu Level Three</span></a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -310,7 +283,7 @@ const Header: React.FC = () => {
                             </ul>
                         </li>
                         <li className="has-children">
-                            <a href="#">IT solutions</a>
+                            <a  >IT solutions</a>
                             <ul className="sub-menu">
                                 <li><a href="it-services.html"><span>IT Services</span></a></li>
                                 <li><a href="managed-it-service.html"><span>Managed IT Services</span></a></li>
@@ -320,10 +293,10 @@ const Header: React.FC = () => {
                             </ul>
                         </li>
                         <li className="has-children">
-                            <a href="#">Elements</a>
+                            <a  >Elements</a>
                             <ul className="sub-menu">
                                 <li className="has-children">
-                                    <a href="#">Element Group 01</a>
+                                    <a  >Element Group 01</a>
                                     <ul className="sub-menu">
                                         <li><a href="element-accordion.html"><span>Accordions & Toggles</span></a></li>
                                         <li><a href="element-box-icon.html"><span>Box Icon</span></a></li>
@@ -336,7 +309,7 @@ const Header: React.FC = () => {
                                     </ul>
                                 </li>
                                 <li className="has-children">
-                                    <a href="#">Element Group 02</a>
+                                    <a  >Element Group 02</a>
                                     <ul className="sub-menu">
                                         <li><a href="element-counters.html"><span>Counters</span></a></li>
                                         <li><a href="element-dividers.html"><span>Dividers</span></a></li>
@@ -349,7 +322,7 @@ const Header: React.FC = () => {
                                     </ul>
                                 </li>
                                 <li className="has-children">
-                                    <a href="#">Element Group 03</a>
+                                    <a  >Element Group 03</a>
                                     <ul className="sub-menu">
                                         <li><a href="element-popup-video.html"><span>Popup Video</span></a></li>
                                         <li><a href="element-pricing-box.html"><span>Pricing Box</span></a></li>
@@ -362,7 +335,7 @@ const Header: React.FC = () => {
                                     </ul>
                                 </li>
                                 <li className="has-children">
-                                    <a href="#">Element Group 04</a>
+                                    <a  >Element Group 04</a>
                                     <ul className="sub-menu">
                                         <li><a href="element-testimonials.html"><span>Testimonials</span></a></li>
                                         <li><a href="element-timeline.html"><span>Timeline</span></a></li>

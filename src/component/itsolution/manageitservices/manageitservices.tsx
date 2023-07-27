@@ -88,7 +88,7 @@ const Manageitservice: React.FC = () => {
                                     <h6 className="sub-title mb-20">Resources</h6>
                                     <h3 className="heading">Get a copy of brochure on <span className="text-color-primary"> Brand New IT Tech.</span></h3>
                                     <div className="button mt-30">
-                                        <a href="#" className="ht-btn ht-btn-md">Download now (3MB)</a>
+                                        <a   className="ht-btn ht-btn-md">Download now (3MB)</a>
                                     </div>
                                 </div>
                             </div>
@@ -356,8 +356,8 @@ const Manageitservice: React.FC = () => {
                         </div>
                         <div className="col-xl-4 col-lg-5">
                             <div className="cta-button-group--one text-center">
-                                <a href="#" className="btn btn--white btn-one"><span className="btn-icon me-2"><i className="far fa-comment-alt"></i></span> Let's talk</a>
-                                <a href="#" className="btn btn--secondary  btn-two"><span className="btn-icon me-2"><i className="fas fa-info-circle"></i></span> Get info</a>
+                                <a   className="btn btn--white btn-one"><span className="btn-icon me-2"><i className="far fa-comment-alt"></i></span> Let's talk</a>
+                                <a   className="btn btn--secondary  btn-two"><span className="btn-icon me-2"><i className="fas fa-info-circle"></i></span> Get info</a>
                             </div>
                         </div>
                     </div>

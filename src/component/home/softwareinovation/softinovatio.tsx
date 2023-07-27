@@ -1,6 +1,9 @@
 import React from "react";
+import { Link, useNavigate } from "react-router-dom";
+
 
 const Softinovation: React.FC = () => { 
+    const Navigate = useNavigate();
     return( 
         
             <div id="main-wrapper">
@@ -18,7 +21,7 @@ const Softinovation: React.FC = () => {
                                     <h1 className="font-weight--reguler mb-30">Startup. </h1>
                                     <h6 className="info-heading">The full set of services around development and maintenance <br/> of complex business-critical applications.</h6>
                                     <div className="hero-button  mt-30">
-                                        <a href="#" className="ht-btn ht-btn-md">Learn more</a>
+                                        <a  className="ht-btn ht-btn-md">Learn more</a>
                                     </div>
                                 </div>
                             </div>
@@ -45,7 +48,7 @@ const Softinovation: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-04 wow move-up">
+                                        <a  className="projects-wrap style-04 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <div className="image">
@@ -57,7 +60,7 @@ const Softinovation: React.FC = () => {
                                                     <div className="text">Lorem dolor sit amet, consectetur elit. Suspeo sitea. spe ndisse suscipit sagittis leo sitea rem ipsum dolor sit
                                                     </div>
                                                     <div className="box-projects-arrow">
-                                                        <span className="button-text">Discover now</span>
+                                                    <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a>
                                                         <i className="fas fa-arrow-right ml-1"></i>
                                                     </div>
                                                 </div>
@@ -68,7 +71,7 @@ const Softinovation: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-04 wow move-up">
+                                        <a  className="projects-wrap style-04 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <div className="image">
@@ -80,7 +83,7 @@ const Softinovation: React.FC = () => {
                                                     <div className="text">Lorem dolor sit amet, consectetur elit. Suspeo sitea. spe ndisse suscipit sagittis leo sitea rem ipsum dolor sit
                                                     </div>
                                                     <div className="box-projects-arrow">
-                                                        <span className="button-text">Discover now</span>
+                                                    <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a>
                                                         <i className="fas fa-arrow-right ml-1"></i>
                                                     </div>
                                                 </div>
@@ -91,7 +94,7 @@ const Softinovation: React.FC = () => {
 
                                     <div className="col-lg-4 col-md-6">
                                         {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-04 wow move-up">
+                                        <a  className="projects-wrap style-04 wow move-up">
                                             <div className="projects-image-box">
                                                 <div className="projects-image">
                                                     <div className="image">
@@ -103,7 +106,7 @@ const Softinovation: React.FC = () => {
                                                     <div className="text">Lorem dolor sit amet, consectetur elit. Suspeo sitea. spe ndisse suscipit sagittis leo sitea rem ipsum dolor sit
                                                     </div>
                                                     <div className="box-projects-arrow">
-                                                        <span className="button-text">Discover now</span>
+                                                    <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a>
                                                         <i className="fas fa-arrow-right ml-1"></i>
                                                     </div>
                                                 </div>
@@ -111,13 +114,10 @@ const Softinovation: React.FC = () => {
                                         </a>
                                         {/* <!-- Projects Wrap End --> */}
                                     </div>
-
-
                                 </div>
-
                             </div>
 
-                            <div className="section-under-heading text-center section-space--mt_40">Stop wasting time and money on technology. <a href="#">Let’s get started</a></div>
+                            <div className="section-under-heading text-center section-space--mt_40">Stop wasting time and money on technology. <a onClick={()=> Navigate('/contactus')}>Let’s get started</a></div>
 
                         </div>
                     </div>
@@ -152,7 +152,7 @@ const Softinovation: React.FC = () => {
                                     <p className="dec-text mt-20">Engitech is the partner of choice for many of the world’s leading enterprises, SMEs and technology challengers. We help businesses elevate their value through custom software development, product design, QA and consultancy services.</p>
                                     <div className="button-box mt-5">
                                         <div className="hero-button">
-                                            <div className="video-popup software-innovation-video-box">
+                                            {/* <div className="video-popup software-innovation-video-box">
                                                 <a href="https://www.youtube.com/watch?v=9No-FiEInLA" className="single-popup-wrap video-link">
                                                     <div className="video-content">
                                                         <div className="ht-popup-video video-button">
@@ -167,7 +167,7 @@ const Softinovation: React.FC = () => {
                                                         </div>
                                                     </div>
                                                 </a>
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                 </div>
@@ -193,7 +193,7 @@ const Softinovation: React.FC = () => {
                         </div>
                         <div className="col-lg-4 col-md-4">
                             <div className="button--box text-left text-md-end">
-                                <a href="#" className="ht-btn ht-btn-md">Talk to a consultant</a>
+                                <a onClick={()=> Navigate('/contactus')} className="ht-btn ht-btn-md">Talk to a consultant</a>
                             </div>
                         </div>
 
@@ -213,10 +213,10 @@ const Softinovation: React.FC = () => {
                                                 <div className="content">
                                                     <h5 className="heading">Offshore Software Development</h5>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
-                                                            <span className="button-text">Discover now</span>
-                                                            <i className="fas fa-arrow-right"></i>
-                                                        </a>
+                                                        
+                                                        {/* <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a> */}
+                                                            {/* <i className="fas fa-arrow-right"></i> */}
+                                                       
 
                                                     </div>
                                                 </div>
@@ -234,10 +234,10 @@ const Softinovation: React.FC = () => {
                                                 <div className="content">
                                                     <h5 className="heading">Custom Software Development</h5>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
-                                                            <span className="button-text">Discover now</span>
-                                                            <i className="fas fa-arrow-right"></i>
-                                                        </a>
+                                                      
+                                                        {/* <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a> */}
+                                                            {/* <i className="fas fa-arrow-right"></i> */}
+                                                       
 
                                                     </div>
                                                 </div>
@@ -255,10 +255,10 @@ const Softinovation: React.FC = () => {
                                                 <div className="content">
                                                     <h5 className="heading">Software Outsourcing Services</h5>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
-                                                            <span className="button-text">Discover now</span>
-                                                            <i className="fas fa-arrow-right"></i>
-                                                        </a>
+                                                        
+                                                        {/* <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a> */}
+                                                            {/* <i className="fas fa-arrow-right"></i> */}
+                                                     
 
                                                     </div>
                                                 </div>
@@ -276,10 +276,10 @@ const Softinovation: React.FC = () => {
                                                 <div className="content">
                                                     <h5 className="heading">Software Product Development</h5>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
-                                                            <span className="button-text">Discover now</span>
-                                                            <i className="fas fa-arrow-right"></i>
-                                                        </a>
+                                                    
+                                                        {/* <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a> */}
+                                                            {/* <i className="fas fa-arrow-right"></i> */}
+                                                      
 
                                                     </div>
                                                 </div>
@@ -297,10 +297,10 @@ const Softinovation: React.FC = () => {
                                                 <div className="content">
                                                     <h5 className="heading">Web Development Services</h5>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
-                                                            <span className="button-text">Discover now</span>
-                                                            <i className="fas fa-arrow-right"></i>
-                                                        </a>
+                                                       
+                                                        {/* <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a> */}
+                                                            {/* <i className="fas fa-arrow-right"></i> */}
+                                                       
 
                                                     </div>
                                                 </div>
@@ -319,10 +319,10 @@ const Softinovation: React.FC = () => {
                                                 <div className="content">
                                                     <h5 className="heading">Cloud Migration Services</h5>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
-                                                            <span className="button-text">Discover now</span>
-                                                            <i className="fas fa-arrow-right"></i>
-                                                        </a>
+                                                     
+                                                        {/* <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a> */}
+                                                            {/* <i className="fas fa-arrow-right"></i> */}
+                                                       
 
                                                     </div>
                                                 </div>
@@ -341,10 +341,10 @@ const Softinovation: React.FC = () => {
                                                 <div className="content">
                                                     <h5 className="heading">Mobile App Development</h5>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
-                                                            <span className="button-text">Discover now</span>
-                                                            <i className="fas fa-arrow-right"></i>
-                                                        </a>
+                                                        
+                                                        {/* <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a> */}
+                                                            {/* <i className="fas fa-arrow-right"></i> */}
+                                                        
 
                                                     </div>
                                                 </div>
@@ -363,11 +363,9 @@ const Softinovation: React.FC = () => {
                                                 <div className="content">
                                                     <h5 className="heading">UI/UX Design Teaching</h5>
                                                     <div className="box-images-arrow">
-                                                        <a href="#">
-                                                            <span className="button-text">Discover now</span>
-                                                            <i className="fas fa-arrow-right"></i>
-                                                        </a>
-
+                                                        {/* <a onClick={()=> Navigate('/contactus')} ><span className="button-text">Discover now</span></a> */}
+                                                            {/* <i className="fas fa-arrow-right"></i> */}
+                                                
                                                     </div>
                                                 </div>
                                             </div>
@@ -419,123 +417,7 @@ const Softinovation: React.FC = () => {
 
 
             {/* <!--===========  Projects wrapper Start =============--> */}
-            <div className="projects-wrapper projectinfotechno-bg section-space--ptb_100">
-                <div className="container">
-
-                    <div className="row">
-                        <div className="col-lg-12">
-                            {/* <!-- section-title-wrap Start --> */}
-                            <div className="section-title-wrap text-center section-space--mb_40">
-                                <h6 className="section-sub-title mb-20">Case studies</h6>
-                                <h3 className="heading">Proud projects <span className="text-color-primary"> make us excel</span></h3>
-                            </div>
-                            {/* <!-- section-title-wrap Start --> */}
-                        </div>
-                    </div>
-
-                    <div className="row">
-                        <div className="col-12">
-                            <div className="projects-wrap swiper-container projects-slider__container">
-                                <div className="swiper-wrapper">
-                                    <div className="swiper-slide">
-                                        {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
-                                            <div className="projects-image-box">
-                                                <div className="projects-image">
-                                                    <img className="img-fluid" src="assets/images/projects/case-study-01-480x298.webp" alt=""/>
-                                                </div>
-                                                <div className="content">
-                                                    <h6 className="heading">Mitech-Smart Vision</h6>
-                                                    <div className="post-categories">Cyber Security</div>
-                                                    <div className="text">At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.
-                                                    </div>
-                                                    <div className="box-projects-arrow">
-                                                        <span className="button-text">View case study</span>
-                                                        <i className="fas fa-arrow-right ml-1"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        {/* <!-- Projects Wrap End --> */}
-                                    </div>
-
-                                    <div className="swiper-slide">
-                                        {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
-                                            <div className="projects-image-box">
-                                                <div className="projects-image">
-                                                    <img className="img-fluid" src="assets/images/projects/case-study-02-480x298.webp" alt=""/>
-                                                </div>
-                                                <div className="content">
-                                                    <h6 className="heading">Arden-Internal Networking</h6>
-                                                    <div className="post-categories">Cyber Security</div>
-                                                    <div className="text">The prospects for a company operating in this new market are varied and exciting. The potential …
-                                                    </div>
-                                                    <div className="box-projects-arrow">
-                                                        <span className="button-text">View case study</span>
-                                                        <i className="fas fa-arrow-right ml-1"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        {/* <!-- Projects Wrap End --> */}
-                                    </div>
-
-                                    <div className="swiper-slide">
-                                        {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
-                                            <div className="projects-image-box">
-                                                <div className="projects-image">
-                                                    <img className="img-fluid" src="assets/images/projects/case-study-03-480x298.webp" alt=""/>
-                                                </div>
-                                                <div className="content">
-                                                    <h6 className="heading">A Freeserve case study</h6>
-                                                    <div className="post-categories">Cyber Security</div>
-                                                    <div className="text">The prospects for a company operating in this new market are varied and exciting. The potential …
-                                                    </div>
-                                                    <div className="box-projects-arrow">
-                                                        <span className="button-text">View case study</span>
-                                                        <i className="fas fa-arrow-right ml-1"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        {/* <!-- Projects Wrap End --> */}
-                                    </div>
-
-                                    <div className="swiper-slide">
-                                        {/* <!-- Projects Wrap Start --> */}
-                                        <a href="#" className="projects-wrap style-01 wow move-up">
-                                            <div className="projects-image-box">
-                                                <div className="projects-image">
-                                                    <img className="img-fluid" src="assets/images/projects/case-study-04-480x298.webp" alt=""/>
-                                                </div>
-                                                <div className="content">
-                                                    <h6 className="heading">Aqua – Research and Energy</h6>
-                                                    <div className="post-categories">Cyber Security</div>
-                                                    <div className="text">The prospects for a company operating in this new market are varied and exciting. The potential …
-                                                    </div>
-                                                    <div className="box-projects-arrow">
-                                                        <span className="button-text">View case study</span>
-                                                        <i className="fas fa-arrow-right ml-1"></i>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        {/* <!-- Projects Wrap End --> */}
-                                    </div>
-
-                                </div>
-                                <div className="swiper-pagination swiper-pagination-project mt_20"></div>
-                            </div>
-
-                            <div className="section-under-heading text-center section-space--mt_40">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            {/* <!--===========  Projects wrapper End =============--> */}
+           
 
 
 
@@ -545,18 +427,18 @@ const Softinovation: React.FC = () => {
                         <div className="col-lg-6">
                             <div className="section-title section-space--pt_60">
                                 <p className="text-white font-weight--bold">OUR TECHNOLOGY</p>
-                                <h3 className="text-white"><span className="text-color-secondary">Mitech</span> – Top Software
+                                <h3 className="text-white"><span className="text-color-secondary">JJR</span> – Top Software
                                     Development Technology</h3>
                                 <p className="text-infos text-white mt-30">Our strong passion to modern tech trends and best practices drive in the development of top-notch solutions that are perfectly tailored to provide high quality and affordable software outsourcing solutions to growing startup and enterprise companies in the world.</p>
 
                                 <div className="single-button-group">
                                     <div className="button-group-wrap mt-30">
-                                        <a href="#" className="ht-btn ht-btn-md ht-btn--outline">ASP. NET Core</a>
-                                        <a href="#" className="ht-btn ht-btn-md ht-btn--outline">REACT JS</a>
-                                        <a href="#" className="ht-btn ht-btn-md ht-btn--outline">ANGULAR</a>
-                                        <a href="#" className="ht-btn ht-btn-md ht-btn--outline">PHP</a>
-                                        <a href="#" className="ht-btn ht-btn-md ht-btn--outline">JAVA</a>
-                                        <a href="#" className="ht-btn ht-btn-md ht-btn--outline">PYTHON</a>
+                                        <a className="ht-btn ht-btn-md ht-btn--outline">ASP. NET Core</a>
+                                        <a  className="ht-btn ht-btn-md ht-btn--outline">REACT JS</a>
+                                        <a  className="ht-btn ht-btn-md ht-btn--outline">ANGULAR</a>
+                                        <a  className="ht-btn ht-btn-md ht-btn--outline">PHP</a>
+                                        <a  className="ht-btn ht-btn-md ht-btn--outline">JAVA</a>
+                                        <a  className="ht-btn ht-btn-md ht-btn--outline">PYTHON</a>
                                     </div>
                                 </div>
 
@@ -572,135 +454,7 @@ const Softinovation: React.FC = () => {
             </div>
 
 
-            <div className="blog-section-wrapper section-space--pt_100  section-space--pb_70">
-                <div className="container">
-
-                    <div className="row">
-                        <div className="col-lg-12 col-md-12">
-                            <div className="section-title-wrap text-center section-space--mb_40">
-                                <h6 className="section-sub-title mb-20">BLOG & NEWS</h6>
-                                <h3 className="heading">Latest news are <span className="text-color-primary"> on top all times</span></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="row">
-
-                        <div className="col-lg-4 col-md-6 wow move-up animated">
-                            {/* <!--======= Single Blog Item Start ========--> */}
-                            <div className="single-blog-item blog-grid">
-                                {/* <!-- Post Feature Start --> */}
-                                <div className="post-feature blog-thumbnail">
-                                    <a href="blog-post-layout-one.html">
-                                        <img className="img-fluid" src="assets/images/blog/blog-01-370x230.webp" alt="Blog Images"/>
-                                    </a>
-                                </div>
-                                {/* <!-- Post Feature End -->
-
-                                <!-- Post info Start --> */}
-                                <div className="post-info lg-blog-post-info">
-                                    <div className="post-meta">
-                                        <div className="post-date">
-                                            <span className="far fa-calendar meta-icon"></span>
-                                            February 28, 2019
-                                        </div>
-                                    </div>
-
-                                    <h5 className="post-title font-weight--bold">
-                                        <a href="#">5 Ways Technology Has Improved Business Today</a>
-                                    </h5>
-
-                                    <div className="post-excerpt mt-15">
-                                        <p>They play a role in making operations more seamless, bridging the gap between authorities, consumers and businesses. …</p>
-                                    </div>
-                                    <div className="btn-text">
-                                        <a href="#">Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
-                                    </div>
-                                </div>
-                                {/* <!-- Post info End --> */}
-                            </div>
-                            {/* <!--===== Single Blog Item End =========--> */}
-
-                        </div>
-
-                        <div className="col-lg-4 col-md-6 wow move-up animated">
-                            {/* <!--======= Single Blog Item Start ========--> */}
-                            <div className="single-blog-item blog-grid">
-                                {/* <!-- Post Feature Start --> */}
-                                <div className="post-feature blog-thumbnail">
-                                    <a href="blog-post-layout-one.html">
-                                        <img className="img-fluid" src="assets/images/blog/blog-02-370x230.webp" alt="Blog Images"/>
-                                    </a>
-                                </div>
-                                {/* <!-- Post Feature End --> */}
-
-                                {/* <!-- Post info Start --> */}
-                                <div className="post-info lg-blog-post-info">
-                                    <div className="post-meta">
-                                        <div className="post-date">
-                                            <span className="far fa-calendar meta-icon"></span>
-                                            February 28, 2019
-                                        </div>
-                                    </div>
-
-                                    <h5 className="post-title font-weight--bold">
-                                        <a href="#">5 Ways Technology Has Improved Business Today</a>
-                                    </h5>
-
-                                    <div className="post-excerpt mt-15">
-                                        <p>They play a role in making operations more seamless, bridging the gap between authorities, consumers and businesses. …</p>
-                                    </div>
-                                    <div className="btn-text">
-                                        <a href="#">Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
-                                    </div>
-                                </div>
-                                {/* <!-- Post info End --> */}
-                            </div>
-                            {/* <!--===== Single Blog Item End =========--> */}
-
-                        </div>
-
-                        <div className="col-lg-4 col-md-6 wow move-up animated">
-                            {/* <!--======= Single Blog Item Start ========--> */}
-                            <div className="single-blog-item blog-grid">
-                                {/* <!-- Post Feature Start --> */}
-                                <div className="post-feature blog-thumbnail">
-                                    <a href="blog-post-layout-one.html">
-                                        <img className="img-fluid" src="assets/images/blog/blog-03-370x230.webp" alt="Blog Images"/>
-                                    </a>
-                                </div>
-                                {/* <!-- Post Feature End --> */}
-
-                                {/* <!-- Post info Start --> */}
-                                <div className="post-info lg-blog-post-info">
-                                    <div className="post-meta">
-                                        <div className="post-date">
-                                            <span className="far fa-calendar meta-icon"></span>
-                                            February 28, 2019
-                                        </div>
-                                    </div>
-
-                                    <h5 className="post-title font-weight--bold">
-                                        <a href="#">How Wireless Technology is Changing Business</a>
-                                    </h5>
-
-                                    <div className="post-excerpt mt-15">
-                                        <p>It is far wiser to do your own installations and ensure that all data flowing through the organization has end-to-end encryption. …</p>
-                                    </div>
-                                    <div className="btn-text">
-                                        <a href="#">Read more <i className="ml-1 button-icon fas fa-arrow-right"></i></a>
-                                    </div>
-                                </div>
-                                {/* <!-- Post info End --> */}
-                            </div>
-                            {/* <!--===== Single Blog Item End =========--> */}
-
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-
+           
             <div className="cta-image-area_one section-space--ptb_80 cta-bg-image_one">
                 <div className="container">
                     <div className="row align-items-center">
@@ -711,8 +465,8 @@ const Softinovation: React.FC = () => {
                         </div>
                         <div className="col-xl-4 col-lg-5">
                             <div className="cta-button-group--one text-center">
-                                <a href="#" className="btn btn--white btn-one"><span className="btn-icon me-2"><i className="far fa-comment-alt"></i></span> Let's talk</a>
-                                <a href="#" className="btn btn--secondary  btn-two"><span className="btn-icon me-2"><i className="fas fa-info-circle"></i></span> Get info</a>
+                                <a onClick={()=> Navigate('/contactus')} className="btn btn--white btn-one"><span className="btn-icon me-2"><i className="far fa-comment-alt"></i></span> Let's talk</a>
+                                {/* <a  className="btn btn--secondary  btn-two"><span className="btn-icon me-2"><i className="fas fa-info-circle"></i></span> Get info</a> */}
                             </div>
                         </div>
                     </div>

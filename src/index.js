@@ -24,6 +24,7 @@ import Businesssolution from './component/itsolution/businesssolution/businessso
 import Industries from './component/itsolution/industries/industries.tsx';
 import Manageitservice from './component/itsolution/manageitservices/manageitservices.tsx';
 import Itservices from './component/itsolution/itservices/itservices.tsx';
+import Contactus from './component/company/contectus/contectus.tsx';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -48,11 +49,14 @@ root.render(
           <Route path="/itservice" element={<Itservices />} />
           <Route path="/manageitservice" element={<Manageitservice />} />
           <Route path="/industries" element={<Industries />} />
-          <Route path="/businesssolution" element={<Businesssolution />} /> 
+          <Route path="/businesssolution" element={<Businesssolution />} />
+          <Route path="/contactus" element={<Contactus />} />
+
+           
           {/* <Route path="*" element={<NoPage />} /> */}   
       </Routes>
-    </BrowserRouter>
     <Footer />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
